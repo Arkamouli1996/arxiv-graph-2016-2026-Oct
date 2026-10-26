@@ -1,0 +1,5265 @@
+[
+  {
+    "year": 2016,
+    "category": "math.AT",
+    "id": "1607.03405",
+    "range_pages": 2,
+    "range_proof": {
+      "id": "1607.03405",
+      "pages": 2,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.03405v1.pdf",
+      "generation": "1593621384907942",
+      "etag": "\"2987d913027a624cb441eb87885b7b26\"",
+      "requests": 2,
+      "bytes_read": 32768,
+      "range_hashes": [
+        {
+          "range": "bytes 51167-67550/67551",
+          "sha256": "33ef10ca4a033a2100bc1640c7dd8cf8aa7e02dc66fe451eba1a047aeb04b6f1",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/67551",
+          "sha256": "e8a123f5dfac4ca465838db3b6b705956d154fdf67454fe08a0d9c40eb8d3ba2",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:56:02.312991+00:00",
+      "seconds": 0.593
+    },
+    "full_proof": {
+      "id": "1607.03405",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.03405v1.pdf",
+      "pages": 2,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:52.726770+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621384907942",
+      "etag": "\"2987d913027a624cb441eb87885b7b26\"",
+      "bytes_read": 67551,
+      "pdf_sha256": "667dbb17c9a47e75e2d4d352513556253884d0002e6ff25a31420534540b170e",
+      "native_pages": 2,
+      "poppler_pages": 2
+    },
+    "full_pages": 2,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.AP",
+    "id": "1607.00482",
+    "range_pages": 11,
+    "range_proof": {
+      "id": "1607.00482",
+      "pages": 11,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00482v1.pdf",
+      "generation": "1593621219211129",
+      "etag": "\"d5abe648671f7f76a57a5957f5500c42\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 186214-202597/202598",
+          "sha256": "8999ae115ff39cfc5944ac36379090bd3f433bb5d793857b31a44632f9dee362",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/202598",
+          "sha256": "ece77ba5492aa6215adf4ec899b51b9ca629fb9a89b8bb66fa557442fcd4d7de",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/202598",
+          "sha256": "fed98b16debfa397385b0c472f7009c88ef006c655fe7ef833bd948ba7e817dc",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:35.008115+00:00",
+      "seconds": 1.062
+    },
+    "full_proof": {
+      "id": "1607.00482",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00482v1.pdf",
+      "pages": 11,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:52.730771+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621219211129",
+      "etag": "\"d5abe648671f7f76a57a5957f5500c42\"",
+      "bytes_read": 202598,
+      "pdf_sha256": "f50c34b1158b8ab7a783a4037400f7f2b17a47f458e4c01ff69c75e408a04354",
+      "native_pages": 11,
+      "poppler_pages": 11
+    },
+    "full_pages": 11,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.AG",
+    "id": "1607.00586",
+    "range_pages": 50,
+    "range_proof": {
+      "id": "1607.00586",
+      "pages": 50,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00586v1.pdf",
+      "generation": "1593621223975015",
+      "etag": "\"a7ab99e60d767fe093212f16452c2576\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 358291-374674/374675",
+          "sha256": "2d6e0a131206a759ea99b8d8dcaa584aa2944634b99bbc46ea35315a08d5d76a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/374675",
+          "sha256": "97c3fd057450e50f7af6f1ae0f3f68d79e252be20def5820d2f7f4fdd4c164ce",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/374675",
+          "sha256": "1408a4409a8da218fa07296135c20ad9f4316f62ab3114fb965ab6e457dddb18",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 245760-262143/374675",
+          "sha256": "ebd0b32186dacccafe710273527b863af5ecf39421ffb258db33ef7ffcd7d567",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:36.043693+00:00",
+      "seconds": 0.86
+    },
+    "full_proof": {
+      "id": "1607.00586",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00586v1.pdf",
+      "pages": 50,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:52.714543+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621223975015",
+      "etag": "\"a7ab99e60d767fe093212f16452c2576\"",
+      "bytes_read": 374675,
+      "pdf_sha256": "475f93c68e79c7c0c14573d0ce2f927142b947f511784810b3f5a267afecbcc6",
+      "native_pages": 50,
+      "poppler_pages": 50
+    },
+    "full_pages": 50,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.CT",
+    "id": "1606.07165",
+    "range_pages": 29,
+    "range_proof": {
+      "id": "1606.07165",
+      "pages": 29,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07165v1.pdf",
+      "generation": "1593621055121914",
+      "etag": "\"898236d19961c6c0543930fd5dc06e86\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 390819-407202/407203",
+          "sha256": "aa4bf7a74bcea853fe25185ff3fd3ca039618287c94609fc0180835dd3ed13f1",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/407203",
+          "sha256": "6a610a58f16b143982006183ea81c2a3d1dff022e64d16c258b09920637b3e8e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 212992-229375/407203",
+          "sha256": "8e56d3909dffde8aaf985640837e6a985681d39eab782fd6a067550444aad5ac",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:10.364145+00:00",
+      "seconds": 0.86
+    },
+    "full_proof": {
+      "id": "1606.07165",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07165v1.pdf",
+      "pages": 29,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:52.752776+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621055121914",
+      "etag": "\"898236d19961c6c0543930fd5dc06e86\"",
+      "bytes_read": 407203,
+      "pdf_sha256": "24587e3f9bb3a156355d3f515a7230720fd53b1a2e8144b008402e0c7f46f4f7",
+      "native_pages": 29,
+      "poppler_pages": 29
+    },
+    "full_pages": 29,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.CA",
+    "id": "1607.01071",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1607.01071",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01071v1.pdf",
+      "generation": "1593621253132823",
+      "etag": "\"13a329234a0906e9449b951fe48697f8\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 162397-178780/178781",
+          "sha256": "56fa4f5eb9f828186b83180469da0dae53a32ab15f118e90270d203fa4775faf",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/178781",
+          "sha256": "80ab4c336f8f962884587235e6d21132a55f0116eeecbb4218ebd81605c0b68a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/178781",
+          "sha256": "0e05fa33c26c283d656ff423a4e8fbcba9397c11aa10e45e3083f58953dc319e",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:40.351895+00:00",
+      "seconds": 0.844
+    },
+    "full_proof": {
+      "id": "1607.01071",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01071v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.151184+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621253132823",
+      "etag": "\"13a329234a0906e9449b951fe48697f8\"",
+      "bytes_read": 178781,
+      "pdf_sha256": "14d7dd48623c6904c6538767e590a51eff2e3ea8ed6afb0db28d38cc22bb1c82",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.CV",
+    "id": "1606.09328",
+    "range_pages": 23,
+    "range_proof": {
+      "id": "1606.09328",
+      "pages": 23,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09328v1.pdf",
+      "generation": "1593621172779327",
+      "etag": "\"aafa8d535006193460c46f9394dbeb33\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 218539-234922/234923",
+          "sha256": "2797c2e806ebb571c1c23f4bab3c3173db2536c55868bd4f6f4f0ff0ac9102e5",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/234923",
+          "sha256": "980fad6ba873a94b777b1dbb4cc13628f482162b3b9d924b28807d2544ff52f4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/234923",
+          "sha256": "555220c31756633329930d530fd8c9dbe2ed4bd9c192f07340e80018e9d41fc3",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:30.191708+00:00",
+      "seconds": 1.281
+    },
+    "full_proof": {
+      "id": "1606.09328",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09328v1.pdf",
+      "pages": 23,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.308497+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621172779327",
+      "etag": "\"aafa8d535006193460c46f9394dbeb33\"",
+      "bytes_read": 234923,
+      "pdf_sha256": "e7de39331454c49eee3d72e3cd6a29f6a1c63a017dd3871c18b66346d99a69b5",
+      "native_pages": 23,
+      "poppler_pages": 23
+    },
+    "full_pages": 23,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.AC",
+    "id": "1607.01031",
+    "range_pages": 11,
+    "range_proof": {
+      "id": "1607.01031",
+      "pages": 11,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01031v1.pdf",
+      "generation": "1593621248319002",
+      "etag": "\"77f8e267d3630906561c911f0e6d971b\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 132421-148804/148805",
+          "sha256": "8ac0cbdbd9f7ddb6e79fa0846cbc4cf5c718832f43f4e98cc827d15bf5561c8f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/148805",
+          "sha256": "60d02b86034bf029efe52be88c21daf903c3591cd355bc52cac64fc5b67b628e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/148805",
+          "sha256": "a14557f2802cf6f219ccd205f02d0209cd4ad723712815fc7c5486ec509aa0d8",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:40.000470+00:00",
+      "seconds": 0.703
+    },
+    "full_proof": {
+      "id": "1607.01031",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01031v1.pdf",
+      "pages": 11,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.277638+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621248319002",
+      "etag": "\"77f8e267d3630906561c911f0e6d971b\"",
+      "bytes_read": 148805,
+      "pdf_sha256": "88a46bc2fd6c453910a52971ab5a1be5034293fb562c721ab9942ecc0b557ca8",
+      "native_pages": 11,
+      "poppler_pages": 11
+    },
+    "full_pages": 11,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.DG",
+    "id": "1607.00289",
+    "range_pages": 33,
+    "range_proof": {
+      "id": "1607.00289",
+      "pages": 33,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00289v1.pdf",
+      "generation": "1593621208052334",
+      "etag": "\"1bcae80cac5c2ca634b987999c13b111\"",
+      "requests": 6,
+      "bytes_read": 98304,
+      "range_hashes": [
+        {
+          "range": "bytes 672381-688764/688765",
+          "sha256": "11bf510dc76587297d04a312a93bfaa416078e77a7dd0a4dbc364516d2911018",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/688765",
+          "sha256": "63b3ea7f84d7764451a98df3c92a9464e29faa9d2c84bf0dd5a9790758b344b8",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 655360-671743/688765",
+          "sha256": "87a0bb727ecb9648c8e1202ac126e27aca426f9a900142c4f88d937afe370750",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 671744-688127/688765",
+          "sha256": "dbf090473f9150041bf96c1817501030193f80f4725354d9a00257e9a585502c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 491520-507903/688765",
+          "sha256": "a1c4526f8842d1163f4334de6a5b6f81c49f5aad6616e340bb314e0a08f56313",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 638976-655359/688765",
+          "sha256": "0a03a3ff8c44ea7d4d0bf898de10733e991b185247bf5d5d765cff4339d5f7e5",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:34.379186+00:00",
+      "seconds": 1.796
+    },
+    "full_proof": {
+      "id": "1607.00289",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00289v1.pdf",
+      "pages": 33,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.529061+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621208052334",
+      "etag": "\"1bcae80cac5c2ca634b987999c13b111\"",
+      "bytes_read": 688765,
+      "pdf_sha256": "ee4efe088b07da258dcce92556b51c78446dcde7bfe6a0ceca9424f195c98841",
+      "native_pages": 33,
+      "poppler_pages": 33
+    },
+    "full_pages": 33,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.DS",
+    "id": "1606.09480",
+    "range_pages": 22,
+    "range_proof": {
+      "id": "1606.09480",
+      "pages": 22,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09480v1.pdf",
+      "generation": "1593621181117461",
+      "etag": "\"22ce0b7b0f986354786d98a0611cdfea\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 232886-249269/249270",
+          "sha256": "33bb8c565c4045f2ab09daeb1e6a81b989ea83a826ecd0e05f98a293adfd508f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/249270",
+          "sha256": "49d9342aaecacbd1f0865c8e881f4f507b5531f6392c8968865750ecb44a74b3",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/249270",
+          "sha256": "5834000c999f400a870ad5cd53baff7706f7bde534bf9189006837217d41e8d1",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:30.993527+00:00",
+      "seconds": 1.141
+    },
+    "full_proof": {
+      "id": "1606.09480",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09480v1.pdf",
+      "pages": 22,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.784670+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621181117461",
+      "etag": "\"22ce0b7b0f986354786d98a0611cdfea\"",
+      "bytes_read": 249270,
+      "pdf_sha256": "d994cc3e7838123357f75f0491cc13d2886fa09eac41088463d1c74faaa76a4a",
+      "native_pages": 22,
+      "poppler_pages": 22
+    },
+    "full_pages": 22,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.CO",
+    "id": "1607.00798",
+    "range_pages": 15,
+    "range_proof": {
+      "id": "1607.00798",
+      "pages": 15,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00798v1.pdf",
+      "generation": "1593621235691588",
+      "etag": "\"ce1fcb2d312a46e78bc12d16d7d0cbb8\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 2821382-2837765/2837766",
+          "sha256": "6ed22dbf946de9d9b59530eacb5e55a8e3767078a34bb9a57ee76b74323382dc",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/2837766",
+          "sha256": "5c14c71feff2b5c1731f072007f8982ee1d97c753158bb4938774a07a142bb63",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2719744-2736127/2837766",
+          "sha256": "880d37ca4d149441d58266cc6ade18d056a0ae961e7d46037426c49c5b8d60ec",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2736128-2752511/2837766",
+          "sha256": "3f805391711d212e1c680a8a10e9b820abfead5f282bddf611c97c4098b9a3d0",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:38.711166+00:00",
+      "seconds": 1.219
+    },
+    "full_proof": {
+      "id": "1607.00798",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00798v1.pdf",
+      "pages": 15,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.218739+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621235691588",
+      "etag": "\"ce1fcb2d312a46e78bc12d16d7d0cbb8\"",
+      "bytes_read": 2837766,
+      "pdf_sha256": "b13fefd3b3f80cb4bdabc5b8c524b838a9fcbbbf91d09580e98aee91ea04f6a5",
+      "native_pages": 15,
+      "poppler_pages": 15
+    },
+    "full_pages": 15,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.GM",
+    "id": "1607.03863",
+    "range_pages": 2,
+    "range_proof": {
+      "id": "1607.03863",
+      "pages": 2,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.03863v1.pdf",
+      "generation": "1593621412715996",
+      "etag": "\"cf684ec6220e64c8d5566dd6d8a5bc47\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 67207-83590/83591",
+          "sha256": "13bde7c5a3099bd227e79846e578cc0fb34fbfb1b3d3cdaeab4999b10d929166",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/83591",
+          "sha256": "d7690dc0ffcae0e31e04a51fb267145ca5bbbfc7779318c2640b852241c3bb66",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 16384-32767/83591",
+          "sha256": "9d13f4391b0e40df8f35203a3d3ea20523bbc0a6cea83d519a2c3facbac787f4",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:56:06.403458+00:00",
+      "seconds": 0.953
+    },
+    "full_proof": {
+      "id": "1607.03863",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.03863v1.pdf",
+      "pages": 2,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.210831+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621412715996",
+      "etag": "\"cf684ec6220e64c8d5566dd6d8a5bc47\"",
+      "bytes_read": 83591,
+      "pdf_sha256": "be7522b5243c7d3d45a68ff32689637d773ceb3e6599a5399475dd166d418446",
+      "native_pages": 2,
+      "poppler_pages": 2
+    },
+    "full_pages": 2,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.FA",
+    "id": "1607.00040",
+    "range_pages": 30,
+    "range_proof": {
+      "id": "1607.00040",
+      "pages": 30,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00040v1.pdf",
+      "generation": "1593621194830157",
+      "etag": "\"1f69bba918479acf675a131ee108d878\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 260136-276519/276520",
+          "sha256": "f97477fea12a1b9b13121dd117c338fd0e574703eecd6df7b247147010c5679b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/276520",
+          "sha256": "3629476fd3058b1aae434bb9a95e6189142be01e82b54d08502eff90a3256ec3",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 147456-163839/276520",
+          "sha256": "2e5f502c8be023bad2909ee1236516981c30c5e999cc3579bd2f931c53f51ca5",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:31.783592+00:00",
+      "seconds": 0.922
+    },
+    "full_proof": {
+      "id": "1607.00040",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00040v1.pdf",
+      "pages": 30,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:53.890468+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621194830157",
+      "etag": "\"1f69bba918479acf675a131ee108d878\"",
+      "bytes_read": 276520,
+      "pdf_sha256": "d1943c171bc682014f252a0b2738e8589a9fc914dc60dc39b85d425a44f48609",
+      "native_pages": 30,
+      "poppler_pages": 30
+    },
+    "full_pages": 30,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.GN",
+    "id": "1606.06102",
+    "range_pages": 19,
+    "range_proof": {
+      "id": "1606.06102",
+      "pages": 19,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.06102v1.pdf",
+      "generation": "1593620993096493",
+      "etag": "\"d00414b0461bed9edd7f93d12247203c\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 245385-261768/261769",
+          "sha256": "68824a75a0633742bb163030d8ef274ddd8749981fffc8fd623cf11648704329",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/261769",
+          "sha256": "1c37166a6f1f2e0c5bb89272f2babcfc8f8c87e5c4db5f04f74e307bd02acdda",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/261769",
+          "sha256": "dd981507351d3de1a8e50ddd072079339daf13b40b679086ebc78caf81fa2d8e",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:06.669375+00:00",
+      "seconds": 0.375
+    },
+    "full_proof": {
+      "id": "1606.06102",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.06102v1.pdf",
+      "pages": 19,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.377106+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593620993096493",
+      "etag": "\"d00414b0461bed9edd7f93d12247203c\"",
+      "bytes_read": 261769,
+      "pdf_sha256": "b596cbff6d5141e4bdfa5a8394dde6c1afc8d615bc5bc5ad3353fdc6dd39ecd2",
+      "native_pages": 19,
+      "poppler_pages": 19
+    },
+    "full_pages": 19,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.GR",
+    "id": "1607.00052",
+    "range_pages": 15,
+    "range_proof": {
+      "id": "1607.00052",
+      "pages": 15,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00052v1.pdf",
+      "generation": "1593621195519912",
+      "etag": "\"cd42c43a858570380ddd17b37339c967\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 475354-491737/491738",
+          "sha256": "0598c878f72665489ebe78ef9b45e53932e4ae240e9154e74b8c946daf4a6927",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/491738",
+          "sha256": "7ea4916cb81239a7c7526de6e5e0cfd2d472a145a988f8dd37d6cc2261cf186f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 409600-425983/491738",
+          "sha256": "98f55f6b88c444315566cad3e375a7c3bec07eb72ed63f6a02c2d813bd538747",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:32.145475+00:00",
+      "seconds": 1.156
+    },
+    "full_proof": {
+      "id": "1607.00052",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00052v1.pdf",
+      "pages": 15,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.545042+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621195519912",
+      "etag": "\"cd42c43a858570380ddd17b37339c967\"",
+      "bytes_read": 491738,
+      "pdf_sha256": "fdb944c1f9861fce9782054b9e12dda7d3354bb6a6984c32e170393345f125a3",
+      "native_pages": 15,
+      "poppler_pages": 15
+    },
+    "full_pages": 15,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.GT",
+    "id": "1607.01208",
+    "range_pages": 28,
+    "range_proof": {
+      "id": "1607.01208",
+      "pages": 28,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01208v1.pdf",
+      "generation": "1593621258062602",
+      "etag": "\"5e047b0e6b91d5d40c46215d42113627\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 363794-380177/380178",
+          "sha256": "d50c99bf78c7973b62ca166456a9fcd592b9ac0da94ce4f2c9265a0423c2b9cb",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/380178",
+          "sha256": "4a0196ca4c089ed436779293a924d973e3060bea5f90a081fbd700c4c1ff1736",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/380178",
+          "sha256": "ba70b9c03e0a7dda6983e3a4ce89756c276f4d8bf332733e6d91261e3112b573",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:41.513561+00:00",
+      "seconds": 0.89
+    },
+    "full_proof": {
+      "id": "1607.01208",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01208v1.pdf",
+      "pages": 28,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.514240+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621258062602",
+      "etag": "\"5e047b0e6b91d5d40c46215d42113627\"",
+      "bytes_read": 380178,
+      "pdf_sha256": "69854ab16603ede24ce8716b713eaa434e9e21b67668b4b097c32733508cacd1",
+      "native_pages": 28,
+      "poppler_pages": 28
+    },
+    "full_pages": 28,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.HO",
+    "id": "1607.02165",
+    "range_pages": 39,
+    "range_proof": {
+      "id": "1607.02165",
+      "pages": 39,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02165v1.pdf",
+      "generation": "1593621311414251",
+      "etag": "\"d86f1a6dbbe7ff51584f7b9ec5b26537\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 467135-483518/483519",
+          "sha256": "118e3c38b00cc52d6da1d8b7357f24a3db7fe282ce92a795d43dc83c5fbcbcf2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/483519",
+          "sha256": "d41eccf158c2067e5204da505b44087f996214c2577ccba87a00a56a488d1fbf",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 196608-212991/483519",
+          "sha256": "278d65ef4a5f7dfa78b27b44305e1d084cf39f4a16b7ccb8fb116f93838544e3",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/483519",
+          "sha256": "18eb6285bbf3cd71634acb004b1b3a57bb01071f170be65d535ef5fb9765b953",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:54.448614+00:00",
+      "seconds": 0.984
+    },
+    "full_proof": {
+      "id": "1607.02165",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02165v1.pdf",
+      "pages": 39,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.579941+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621311414251",
+      "etag": "\"d86f1a6dbbe7ff51584f7b9ec5b26537\"",
+      "bytes_read": 483519,
+      "pdf_sha256": "9e725924cd850a88681f2a7328225c434eba5939abd5c8367b2cb7c2bc157920",
+      "native_pages": 39,
+      "poppler_pages": 39
+    },
+    "full_pages": 39,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.IT",
+    "id": "1606.05457",
+    "range_pages": 14,
+    "range_proof": {
+      "id": "1606.05457",
+      "pages": 14,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.05457v1.pdf",
+      "generation": "1593620956005427",
+      "etag": "\"a3df75602f40789f256f9770f27fad43\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 152604-168987/168988",
+          "sha256": "c24e9a13c1b06f258fce795a1d4d93a651d41a6bd05a900beca2a46f4146a44f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/168988",
+          "sha256": "d2bdd9380def7b2da980af958badcaadba4abc687b776e30d96ec303341e0154",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/168988",
+          "sha256": "24e544015756240e14388893507aa8f04518c11f9ec1122e1ef1e4ea0f7f0440",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:04.631734+00:00",
+      "seconds": 0.328
+    },
+    "full_proof": {
+      "id": "1606.05457",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.05457v1.pdf",
+      "pages": 14,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.763841+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593620956005427",
+      "etag": "\"a3df75602f40789f256f9770f27fad43\"",
+      "bytes_read": 168988,
+      "pdf_sha256": "4d3b75b34fac9835a2ecfaf7f5db30dbeba45ed78b5b47cdae4a042ff365430c",
+      "native_pages": 14,
+      "poppler_pages": 14
+    },
+    "full_pages": 14,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.LO",
+    "id": "1607.01625",
+    "range_pages": 20,
+    "range_proof": {
+      "id": "1607.01625",
+      "pages": 20,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01625v1.pdf",
+      "generation": "1593621280977168",
+      "etag": "\"3e02cbcdabed752a513a885be5acd052\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 185454-201837/201838",
+          "sha256": "57dec13186da4de455e4f5bc81ab838bbf4d64f34b2b0cfc7b445bc3156edade",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/201838",
+          "sha256": "48daca6311b0c824c228556c9eff780b47f3a397989f9a4cc97fa82e61b0c9c2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 98304-114687/201838",
+          "sha256": "f8f120f58bdcbed721e2811674a9147c8c450bcbc21a8b81dfe1a87d5ff5366b",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:44.263794+00:00",
+      "seconds": 0.781
+    },
+    "full_proof": {
+      "id": "1607.01625",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01625v1.pdf",
+      "pages": 20,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.920297+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621280977168",
+      "etag": "\"3e02cbcdabed752a513a885be5acd052\"",
+      "bytes_read": 201838,
+      "pdf_sha256": "59dde1d103541d93332b6784b0c9c649805a0515e712e18cc365f2690cbec971",
+      "native_pages": 20,
+      "poppler_pages": 20
+    },
+    "full_pages": 20,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.KT",
+    "id": "1607.06529",
+    "range_pages": 22,
+    "range_proof": {
+      "id": "1607.06529",
+      "pages": 22,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.06529v1.pdf",
+      "generation": "1593621562157713",
+      "etag": "\"97fbecc9d61556cf5c3d46df5db7a5b3\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 241525-257908/257909",
+          "sha256": "5edde59e4a3dc9315b53d68edfa61a77a349495dc40f45509ed0339d8c4e6797",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/257909",
+          "sha256": "65a2379f72e414e0e5e1d53c5c6136469c79b4dba0658b3dafd9362c9f088862",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/257909",
+          "sha256": "8e16f7c3565ced5c269089e2ea3f915d2c5faa517d6648d16f67b967a598c1a4",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:56:29.504530+00:00",
+      "seconds": 1.187
+    },
+    "full_proof": {
+      "id": "1607.06529",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.06529v1.pdf",
+      "pages": 22,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:54.881061+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621562157713",
+      "etag": "\"97fbecc9d61556cf5c3d46df5db7a5b3\"",
+      "bytes_read": 257909,
+      "pdf_sha256": "5c5d11978edba630e73cd33403eae0f05a18f0ce6c2be19c04d2c7a14312872c",
+      "native_pages": 22,
+      "poppler_pages": 22
+    },
+    "full_pages": 22,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.MP",
+    "id": "1607.00232",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1607.00232",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00232v1.pdf",
+      "generation": "1593621204254435",
+      "etag": "\"0c4638b5d8ba1c1fff841328af0741b9\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 190833-207216/207217",
+          "sha256": "8a3442ca4d4bd221d9c9c59310c8cc5bce915349c7ee06ff5b548b6de72bbf0d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/207217",
+          "sha256": "3d33e8ac8e1e4722ba16d27ac7597b5e933764a5f5e5270ccf8e61df4ff35502",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/207217",
+          "sha256": "f9a049cd85e91b64aa7bfca98e828402333bf8e56a8856360fbad1b8aa0fc6b4",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:33.192037+00:00",
+      "seconds": 1.047
+    },
+    "full_proof": {
+      "id": "1607.00232",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00232v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.000700+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621204254435",
+      "etag": "\"0c4638b5d8ba1c1fff841328af0741b9\"",
+      "bytes_read": 207217,
+      "pdf_sha256": "12845adc107e0929b6c34b60d3f49fca4b0316fc3e7581d8cb07c66c30c9eaaf",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.MG",
+    "id": "1607.00132",
+    "range_pages": 14,
+    "range_proof": {
+      "id": "1607.00132",
+      "pages": 14,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00132v1.pdf",
+      "generation": "1593621200016924",
+      "etag": "\"fd424cec7c2a8d4d94eb08a69f75b575\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 232631-249014/249015",
+          "sha256": "8c063d7d85f3ab1c66ee532456a80216ebe70a38541b20bc41beda124770141e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/249015",
+          "sha256": "dfabfcb91cd9bc87d63e51e7fc76e50d74251a6380c1b05ebf773d888ea0a36e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/249015",
+          "sha256": "d8382aa11f0e448a15757ca1c5163aecbf83aa9a6a479567194d705824749790",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:32.567469+00:00",
+      "seconds": 0.922
+    },
+    "full_proof": {
+      "id": "1607.00132",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00132v1.pdf",
+      "pages": 14,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.043622+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621200016924",
+      "etag": "\"fd424cec7c2a8d4d94eb08a69f75b575\"",
+      "bytes_read": 249015,
+      "pdf_sha256": "6236d93af45a2235376b68c32e6dc0945bfe1fa069aded2f81dd49bcbcaee320",
+      "native_pages": 14,
+      "poppler_pages": 14
+    },
+    "full_pages": 14,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.NT",
+    "id": "1606.09240",
+    "range_pages": 33,
+    "range_proof": {
+      "id": "1606.09240",
+      "pages": 33,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09240v1.pdf",
+      "generation": "1593621167635508",
+      "etag": "\"d2841a72d179265a0593b8a381231bc4\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 475273-491656/491657",
+          "sha256": "e5b496d704885c9b41016767187082cab1bc6f9801a890b8c68b90a5a39e4bf9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/491657",
+          "sha256": "71204c390019110592874c53f5d714ad1f5f1f3f791f94412e5988843bd27e70",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 262144-278527/491657",
+          "sha256": "f0b003b6ff58a3a826f936ca808049e2246f173d97383a5a6e9bd7588bd9a117",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:29.193253+00:00",
+      "seconds": 0.828
+    },
+    "full_proof": {
+      "id": "1606.09240",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09240v1.pdf",
+      "pages": 33,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.159602+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621167635508",
+      "etag": "\"d2841a72d179265a0593b8a381231bc4\"",
+      "bytes_read": 491657,
+      "pdf_sha256": "46f62000013fc0a76d211a660939d269312659f7b5e1463b75b699659f1f1e1c",
+      "native_pages": 33,
+      "poppler_pages": 33
+    },
+    "full_pages": 33,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.OA",
+    "id": "1606.07648",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1606.07648",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07648v1.pdf",
+      "generation": "1593621081977951",
+      "etag": "\"9397cbc1f9ad22b042e8f9f5892c9d21\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 132746-149129/149130",
+          "sha256": "8f4cbea548c6bd0c9e4673052b6c9f9ce4c7d96e27bfe33ada340e2a9c979f2d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/149130",
+          "sha256": "756737742affdfda7f3b70415957c4fc7cd3187caf553cc864b2bfd5018389b0",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 49152-65535/149130",
+          "sha256": "d921208968d4401581fbe4c604f8a8cba507434e8447acba2ea53c10b8e71464",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:18.868053+00:00",
+      "seconds": 0.735
+    },
+    "full_proof": {
+      "id": "1606.07648",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07648v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.298182+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621081977951",
+      "etag": "\"9397cbc1f9ad22b042e8f9f5892c9d21\"",
+      "bytes_read": 149130,
+      "pdf_sha256": "9c6549f83f803cdb94521cb953c490b1815a87fbbdd764e2a33680a098896eee",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.NA",
+    "id": "1607.00648",
+    "range_pages": 37,
+    "range_proof": {
+      "id": "1607.00648",
+      "pages": 37,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00648v1.pdf",
+      "generation": "1593621226836909",
+      "etag": "\"dcb5e38a148db881b95900dd62390898\"",
+      "requests": 5,
+      "bytes_read": 81920,
+      "range_hashes": [
+        {
+          "range": "bytes 1568559-1584942/1584943",
+          "sha256": "dc3bf2eabe8dbf04f7be1cc43d0198e78bdce8e5a51253c6b3e4c055e1b19e3b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1584943",
+          "sha256": "44f86673fd836aa2498e9020b07a6f452e242604a38ca7735607e6a03caf42f9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1540096-1556479/1584943",
+          "sha256": "9421d0f57d4f78da75e42c21005200ebb2c6433fb99a516c369bbc7482cfe33d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1556480-1572863/1584943",
+          "sha256": "dd28e02c62a0fb2a7d81febf9297e50290cbdcc3d50cdea722ea10b58086b7ff",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1327104-1343487/1584943",
+          "sha256": "be25d53387234d30b337586b0ca351eef36783e8781518a049a48e1e49b4e8b8",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:37.790404+00:00",
+      "seconds": 1.391
+    },
+    "full_proof": {
+      "id": "1607.00648",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00648v1.pdf",
+      "pages": 37,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.252999+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621226836909",
+      "etag": "\"dcb5e38a148db881b95900dd62390898\"",
+      "bytes_read": 1584943,
+      "pdf_sha256": "ab1bd0925b0202718c21e2a2f224f6b49dea4d72d8153976837523c89d4ba64a",
+      "native_pages": 37,
+      "poppler_pages": 37
+    },
+    "full_pages": 37,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.OC",
+    "id": "1607.01821",
+    "range_pages": 17,
+    "range_proof": {
+      "id": "1607.01821",
+      "pages": 17,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01821v1.pdf",
+      "generation": "1593621292648163",
+      "etag": "\"9c42c0a50102f5015a42b8a76356c4d1\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 874175-890558/890559",
+          "sha256": "038fee8dc177bcb1524466dfcec0d81209e2fc5ad5baabe1d08529f546110dc8",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/890559",
+          "sha256": "a358b84d3e472f07563d71d4babc26fdf0b96ecf6f15e10f4880028d0aa890cf",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 786432-802815/890559",
+          "sha256": "03b2c48905b6ef4befc02133e5fdbd0cf455b56be7ed152922481ed0451c58fe",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 868352-884735/890559",
+          "sha256": "b05382f105e2603b5539971ecb2042b898ed384386345d60453388ce381f0c71",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:50.719709+00:00",
+      "seconds": 6.422
+    },
+    "full_proof": {
+      "id": "1607.01821",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.01821v1.pdf",
+      "pages": 17,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.333982+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621292648163",
+      "etag": "\"9c42c0a50102f5015a42b8a76356c4d1\"",
+      "bytes_read": 890559,
+      "pdf_sha256": "a27542bd14e44ca8655fad0feb94743deadddebb9374f52fa3cbd8987209f89a",
+      "native_pages": 17,
+      "poppler_pages": 17
+    },
+    "full_pages": 17,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.PR",
+    "id": "1606.09309",
+    "range_pages": 39,
+    "range_proof": {
+      "id": "1606.09309",
+      "pages": 39,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09309v1.pdf",
+      "generation": "1593621172017658",
+      "etag": "\"c8950a79834076948d3fe9bd7854eadc\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 375342-391725/391726",
+          "sha256": "dc966785105ba17f7eda505f12667bf613c79026028eb1fd46c6d41f3f071bfe",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/391726",
+          "sha256": "53cdf118ad2b13412d287db4fb68ab1f6c983d1e929cee69b7ca51b4d5e3b940",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/391726",
+          "sha256": "270d4c49a1731a7f30d504d5f6a16b9b6b4ac01871f5aa2e2f783c3a4c9f9d2b",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:29.666879+00:00",
+      "seconds": 0.907
+    },
+    "full_proof": {
+      "id": "1606.09309",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09309v1.pdf",
+      "pages": 39,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.630188+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621172017658",
+      "etag": "\"c8950a79834076948d3fe9bd7854eadc\"",
+      "bytes_read": 391726,
+      "pdf_sha256": "98c2cd33850ec565ba7c1286234120a6a9ed09347a4b27c2a0b92431f1a00583",
+      "native_pages": 39,
+      "poppler_pages": 39
+    },
+    "full_pages": 39,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.RT",
+    "id": "1607.00305",
+    "range_pages": 22,
+    "range_proof": {
+      "id": "1607.00305",
+      "pages": 22,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00305v1.pdf",
+      "generation": "1593621208701575",
+      "etag": "\"6f69aadfcd844ab40f384509422cf646\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 238019-254402/254403",
+          "sha256": "b044861f83559cfed9e59e59ba1463a74aaf623ce3220c8e887d1f14963563fb",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/254403",
+          "sha256": "3c5bfb32564c9279a08412bf9dda88b7c827101b9eca7aa70ba932f8470ef25c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/254403",
+          "sha256": "2018261463ec9472c469a7358257670282a09ea18d0e9cc8f24d31c3a0af44df",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:33.538764+00:00",
+      "seconds": 0.938
+    },
+    "full_proof": {
+      "id": "1607.00305",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00305v1.pdf",
+      "pages": 22,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.706811+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621208701575",
+      "etag": "\"6f69aadfcd844ab40f384509422cf646\"",
+      "bytes_read": 254403,
+      "pdf_sha256": "d97bd69de6436744b69dbfa85e18a374ba886c155f64b0639a3a82c9cfb8e5c7",
+      "native_pages": 22,
+      "poppler_pages": 22
+    },
+    "full_pages": 22,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.QA",
+    "id": "1607.00314",
+    "range_pages": 26,
+    "range_proof": {
+      "id": "1607.00314",
+      "pages": 26,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00314v1.pdf",
+      "generation": "1593621209703475",
+      "etag": "\"eb9892cd0dc84c222eb343cc0c44050b\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 757775-774158/774159",
+          "sha256": "18c6bafef2e79515f12fcb5f3f4e1b53c5377c29f16aaccacac57e161c66b7ff",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/774159",
+          "sha256": "6c0a19c1b8bdf4a7847acf9eb1d0708b76442d8c1378ee376490a6cb242efd4f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 622592-638975/774159",
+          "sha256": "f9c5d078b8a7eefadfcadb87104bbd0998d7315097afafe9278645972c730e4e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 753664-770047/774159",
+          "sha256": "632c78571a4cb6f91b6bfb95d119cd0c928893d454e2d083e53a5eab47c5a842",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:34.153361+00:00",
+      "seconds": 1.453
+    },
+    "full_proof": {
+      "id": "1607.00314",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.00314v1.pdf",
+      "pages": 26,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.693277+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621209703475",
+      "etag": "\"eb9892cd0dc84c222eb343cc0c44050b\"",
+      "bytes_read": 774159,
+      "pdf_sha256": "c417a40d2736a6a32567444252250b0c84f11c82a44f2a727fa700a447cee2e2",
+      "native_pages": 26,
+      "poppler_pages": 26
+    },
+    "full_pages": 26,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.RA",
+    "id": "1606.07109",
+    "range_pages": 31,
+    "range_proof": {
+      "id": "1606.07109",
+      "pages": 31,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07109v1.pdf",
+      "generation": "1593621052425535",
+      "etag": "\"99f6aa107e6af35cf1aeaebffd9f8da3\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 368278-384661/384662",
+          "sha256": "fc76a8785757cbf4d4605572ebfaa23961b72d69bdc7ec71188864d681252f0a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/384662",
+          "sha256": "1c8ea79a4a6a9384d90aa09ecd5012ed67acb4aa43d05bd06a4cba95d5dec331",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 360448-376831/384662",
+          "sha256": "0721f95f755fdc5eb58a71ef344f11d8ff5c1c0c099138a55265672c401c0887",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/384662",
+          "sha256": "161c2e35d20c7923b50f5784b9e6ea171a4a36819d90468e41be17a8b6fce5de",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:10.336201+00:00",
+      "seconds": 1.204
+    },
+    "full_proof": {
+      "id": "1606.07109",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.07109v1.pdf",
+      "pages": 31,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:55.864816+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621052425535",
+      "etag": "\"99f6aa107e6af35cf1aeaebffd9f8da3\"",
+      "bytes_read": 384662,
+      "pdf_sha256": "7b1d8ac4da2ffdb6f76bff04e7317feb417620d108a54887e560ce5d58ce21a0",
+      "native_pages": 31,
+      "poppler_pages": 31
+    },
+    "full_pages": 31,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.SP",
+    "id": "1606.09620",
+    "range_pages": 16,
+    "range_proof": {
+      "id": "1606.09620",
+      "pages": 16,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09620v1.pdf",
+      "generation": "1593621189656304",
+      "etag": "\"29f883170b593f3747d4b3feda469272\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 316700-333083/333084",
+          "sha256": "463fa6cf2839ca6479609cad7e9adde06b9ecb8c277e3da6c351d2b2ead2b232",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/333084",
+          "sha256": "cd63bf43e961554f3c3556df4b58cdebc162e1cee51fc7d6fe126aa3da0f7bed",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 196608-212991/333084",
+          "sha256": "669e49f19c5f289a13594e7e1992a8584fbd87f0479c5da3e2824b4a5e77eaeb",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:31.273795+00:00",
+      "seconds": 0.953
+    },
+    "full_proof": {
+      "id": "1606.09620",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1606/1606.09620v1.pdf",
+      "pages": 16,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.018567+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621189656304",
+      "etag": "\"29f883170b593f3747d4b3feda469272\"",
+      "bytes_read": 333084,
+      "pdf_sha256": "24a2eea5fa4d4fc24fa970c0ca706b40a672531f845b709b9b0de2975da0712c",
+      "native_pages": 16,
+      "poppler_pages": 16
+    },
+    "full_pages": 16,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.ST",
+    "id": "1607.02066",
+    "range_pages": 21,
+    "range_proof": {
+      "id": "1607.02066",
+      "pages": 21,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02066v1.pdf",
+      "generation": "1593621305655792",
+      "etag": "\"dd3f09b86092b616dbaa8d3f81734d2c\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 229054-245437/245438",
+          "sha256": "7bfdd22b90fbf801bb49922bd35f70a5eb614b0bcd2c7e143c30aae1fd0de22e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/245438",
+          "sha256": "ea5776631340eee61d7e78301e2dd5234a81999f7991e5f9a5e7432837678902",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/245438",
+          "sha256": "d5e5835e2f572155957897c3ad65c24a510ed3a338f34cacb6fe88f5211f21a0",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:53.796618+00:00",
+      "seconds": 0.938
+    },
+    "full_proof": {
+      "id": "1607.02066",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02066v1.pdf",
+      "pages": 21,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.057089+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621305655792",
+      "etag": "\"dd3f09b86092b616dbaa8d3f81734d2c\"",
+      "bytes_read": 245438,
+      "pdf_sha256": "5bd0a3401da5899b15d29fecfb5178af708e7d38677e6564d9bc3cf719876b84",
+      "native_pages": 21,
+      "poppler_pages": 21
+    },
+    "full_pages": 21,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.AG",
+    "id": "1707.00752",
+    "range_pages": 29,
+    "range_proof": {
+      "id": "1707.00752",
+      "pages": 29,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00752v1.pdf",
+      "generation": "1593628191162003",
+      "etag": "\"877d68f0f0e23167be0a2a6ceeaea623\"",
+      "requests": 2,
+      "bytes_read": 32768,
+      "range_hashes": [
+        {
+          "range": "bytes 481922-498305/498306",
+          "sha256": "1e6a5e49334b4a68066d1a5b508a86b6c7e9185990b299486bf1ce06230b1c3a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/498306",
+          "sha256": "09fd55766e9f4da22fb6decffb6bb58e795f7bf75f850d555f83d69e76adb48d",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:56.512955+00:00",
+      "seconds": 0.234
+    },
+    "full_proof": {
+      "id": "1707.00752",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00752v1.pdf",
+      "pages": 29,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.512955+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628191162003",
+      "etag": "\"877d68f0f0e23167be0a2a6ceeaea623\"",
+      "bytes_read": 498306,
+      "pdf_sha256": "91140d1d54cd1d6ef8facba7ee4d6e1a32d53c3a3141ade4dc3f02494b09d081",
+      "native_pages": 29,
+      "poppler_pages": 29
+    },
+    "full_pages": 29,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2016,
+    "category": "math.SG",
+    "id": "1607.02621",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1607.02621",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02621v1.pdf",
+      "generation": "1593621339916338",
+      "etag": "\"0140f1310999c097eaa48b59474892f3\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 165905-182288/182289",
+          "sha256": "d937807143e04b2171c26d1b891bdfd565f549b25c8adf7f347b092f4a445c12",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/182289",
+          "sha256": "8ce0244a777469fa8d344efbc7d6e28bdb9777f0fc271c7628e11973c4201b64",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/182289",
+          "sha256": "7a77276a2e33a9b352936731aba3b8b85b750cb372e8290df301e1ea648b4119",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T11:55:57.029184+00:00",
+      "seconds": 0.812
+    },
+    "full_proof": {
+      "id": "1607.02621",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1607/1607.02621v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.180435+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593621339916338",
+      "etag": "\"0140f1310999c097eaa48b59474892f3\"",
+      "bytes_read": 182289,
+      "pdf_sha256": "f6a50ff0e92d997b4c8be44d55e03dcf3b1f00ac7f4bbd0158db29d139b32086",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.AT",
+    "id": "1707.04248",
+    "range_pages": 17,
+    "range_proof": {
+      "id": "1707.04248",
+      "pages": 17,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.04248v1.pdf",
+      "generation": "1593628403223575",
+      "etag": "\"e22385b74f7e3d99be7106bf0c6bb511\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 286334-302717/302718",
+          "sha256": "dfa6e76cc9e3f1705e230a5d0a9b17cbe66a83118a459db6b8568ce26c74c9e7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/302718",
+          "sha256": "f6f7847b7eca9f3fa84d2ee2a196af0fb59bdd70257ffb3de62100aa9b10b7d7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/302718",
+          "sha256": "316d1429c38d13df97fb89238f4c4682b623ca94e32d85aba25b69d4de311864",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:56.681305+00:00",
+      "seconds": 0.359
+    },
+    "full_proof": {
+      "id": "1707.04248",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.04248v1.pdf",
+      "pages": 17,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.681305+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628403223575",
+      "etag": "\"e22385b74f7e3d99be7106bf0c6bb511\"",
+      "bytes_read": 302718,
+      "pdf_sha256": "7d320868173aea3be5f155dc03ede3f765d840c744f57b1e86e2c535ad750d66",
+      "native_pages": 17,
+      "poppler_pages": 17
+    },
+    "full_pages": 17,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.CT",
+    "id": "1707.01677",
+    "range_pages": 37,
+    "range_proof": {
+      "id": "1707.01677",
+      "pages": 37,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01677v1.pdf",
+      "generation": "1593628246860086",
+      "etag": "\"9e979079c0a29c5d18a88ac31e3ea012\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 448488-464871/464872",
+          "sha256": "0a48220a7f745e7d1aea39b3c516621004061dd9f36a9c196449158e11d3d113",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/464872",
+          "sha256": "44423bcb6674cca3cf8bed9ce91646ef483f330c62a9ae10a77c7a5ccaad6984",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 262144-278527/464872",
+          "sha256": "96a40c7a6e5bb575c26d93b632e9e850b7c6100aa4f934279a20872384603c50",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:56.945443+00:00",
+      "seconds": 0.25
+    },
+    "full_proof": {
+      "id": "1707.01677",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01677v1.pdf",
+      "pages": 37,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:56.945443+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628246860086",
+      "etag": "\"9e979079c0a29c5d18a88ac31e3ea012\"",
+      "bytes_read": 464872,
+      "pdf_sha256": "8cc58c4d8a9205bc62ddac0695b8641909db2339d7e9948c594a9049c095e207",
+      "native_pages": 37,
+      "poppler_pages": 37
+    },
+    "full_pages": 37,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.CA",
+    "id": "1706.09792",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1706.09792",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.09792v1.pdf",
+      "generation": "1593628114388778",
+      "etag": "\"6d8282d23c493093f43bb394942994ed\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 135556-151939/151940",
+          "sha256": "0f428e7a7c1e6d441135e4c59c3301eee38d10dfac397e7f212302a9944c3955",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/151940",
+          "sha256": "bc012fff2e9172c867196fb99760cd41dae44ccee27ebec4eded6c998b9e4747",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 49152-65535/151940",
+          "sha256": "31926d6e54a6b785cf2c681c475582aad7a4794855985ad6331e062b04364d9a",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:57.328725+00:00",
+      "seconds": 0.469
+    },
+    "full_proof": {
+      "id": "1706.09792",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.09792v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:57.328725+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628114388778",
+      "etag": "\"6d8282d23c493093f43bb394942994ed\"",
+      "bytes_read": 151940,
+      "pdf_sha256": "0964ff1aeb42dc673a5ddf86f13ddda752aa81441f298d2d5eac0c8d08801b80",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.CO",
+    "id": "1707.02010",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1707.02010",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02010v1.pdf",
+      "generation": "1593628266027713",
+      "etag": "\"2f9bc116890e6acca28741e68ff744d2\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 206956-223339/223340",
+          "sha256": "906b01761b168150f966387766caa88e4a4588978c1ea195341684340318f3a9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/223340",
+          "sha256": "7edfcaebb68e9331e9213208cb6d362b748d154540da41c8e56c7795423a0bee",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 98304-114687/223340",
+          "sha256": "3590b54f3734df1c27a15aa0b3422d8a8d70f26d1e0ee1057a55511be54273b6",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:57.345956+00:00",
+      "seconds": 0.36
+    },
+    "full_proof": {
+      "id": "1707.02010",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02010v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:57.345956+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628266027713",
+      "etag": "\"2f9bc116890e6acca28741e68ff744d2\"",
+      "bytes_read": 223340,
+      "pdf_sha256": "a5ddb97d2374fe8c060538cf424e5a1e235f252ab755679ce644221637a44265",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.AC",
+    "id": "1707.03285",
+    "range_pages": 19,
+    "range_proof": {
+      "id": "1707.03285",
+      "pages": 19,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03285v1.pdf",
+      "generation": "1593628346457986",
+      "etag": "\"84a148b56122dd6f2609fa8654b7dc31\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 246986-263369/263370",
+          "sha256": "3731a0bc57fadc3f19b02f82e294708a3abff2a8c26b107c92356b2ffdba5c84",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/263370",
+          "sha256": "6157472fc39ade1c1e2f1b2cfb22b7a66b78043eb806f18dcc1a73976282a6c7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/263370",
+          "sha256": "9e56fde019dc2d1c039024074d3f67f964127c615e73bdc24bc99b7e4c60caed",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 114688-131071/263370",
+          "sha256": "c32f6621ce4a097a4551533f9bd65c94ecf1ca42cd1d35114041de00f80eb665",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:58.306112+00:00",
+      "seconds": 0.828
+    },
+    "full_proof": {
+      "id": "1707.03285",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03285v1.pdf",
+      "pages": 19,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:58.306112+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628346457986",
+      "etag": "\"84a148b56122dd6f2609fa8654b7dc31\"",
+      "bytes_read": 263370,
+      "pdf_sha256": "ae5136367f3b261addc86e5f4c889630c503c3ddf24aea8e35b61b1631ea03b8",
+      "native_pages": 19,
+      "poppler_pages": 19
+    },
+    "full_pages": 19,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.CV",
+    "id": "1707.01023",
+    "range_pages": 13,
+    "range_proof": {
+      "id": "1707.01023",
+      "pages": 13,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01023v1.pdf",
+      "generation": "1593628207865435",
+      "etag": "\"15d62e5ae8cfc8901618d8ec8ad91934\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 167241-183624/183625",
+          "sha256": "a4ef61b75ac3f21c65fbd90ac4ba30f5139dee077cffd793b59067fe2c60dffa",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/183625",
+          "sha256": "fe4ffe69f9c71b5d58aadc500bd29dcd513e7ed50c0ef905500069fad67d8549",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/183625",
+          "sha256": "697b40f0588131c134239bd47052da92fd7b65b669fa12df6b91189ad828c0b6",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:58.537596+00:00",
+      "seconds": 0.407
+    },
+    "full_proof": {
+      "id": "1707.01023",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01023v1.pdf",
+      "pages": 13,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:58.537596+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628207865435",
+      "etag": "\"15d62e5ae8cfc8901618d8ec8ad91934\"",
+      "bytes_read": 183625,
+      "pdf_sha256": "4fbc1bf15bb31a67f0b465f98bcfadde5947d55c1125962955385f2999f8bc53",
+      "native_pages": 13,
+      "poppler_pages": 13
+    },
+    "full_pages": 13,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.AP",
+    "id": "1707.01883",
+    "range_pages": 44,
+    "range_proof": {
+      "id": "1707.01883",
+      "pages": 44,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01883v1.pdf",
+      "generation": "1593628258947579",
+      "etag": "\"6c43ed49d1e5d964e3bd9350787a1d92\"",
+      "requests": 5,
+      "bytes_read": 81920,
+      "range_hashes": [
+        {
+          "range": "bytes 1843606-1859989/1859990",
+          "sha256": "81fe374b3083489b70906aea2e75ae4b901b0dfce23132b2247b8c66188c5812",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1859990",
+          "sha256": "dc8c0fa8e1e64603d426e1c1b57fadbca83990ccd3dd347b7a830a549bbab3c7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1835008-1851391/1859990",
+          "sha256": "b773bb59d2830557b692129fa561b99c0533d79e744c30d0a89746d270bb9fef",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1720320-1736703/1859990",
+          "sha256": "2383d12da13642f37e1bbfeb2be93a538a3ee0848039d8b961b1c34784b27764",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1818624-1835007/1859990",
+          "sha256": "1800612ce088cb5cb82829d60c30d0b37f1a6a758a758603dc7ff2dc2ff4fe34",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:57.028167+00:00",
+      "seconds": 0.594
+    },
+    "full_proof": {
+      "id": "1707.01883",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01883v1.pdf",
+      "pages": 44,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:57.029173+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628258947579",
+      "etag": "\"6c43ed49d1e5d964e3bd9350787a1d92\"",
+      "bytes_read": 1859990,
+      "pdf_sha256": "ac43cef064fbc530ee2145592b79fccf64b04615ab21fcbf5d9cb630bf7eb2d7",
+      "native_pages": 44,
+      "poppler_pages": 44
+    },
+    "full_pages": 44,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.DG",
+    "id": "1707.03099",
+    "range_pages": 18,
+    "range_proof": {
+      "id": "1707.03099",
+      "pages": 18,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03099v1.pdf",
+      "generation": "1593628335959839",
+      "etag": "\"095537a1f1f1977fa40deb45615adebf\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 218864-235247/235248",
+          "sha256": "787315bcd8957830f414e239d6124ec43a1698f160339de55aed468f5ab6bfa6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/235248",
+          "sha256": "03b6b565fdee3c18356835f31fb9d63a6dcf7ed937625891739e369cc8396fd2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 98304-114687/235248",
+          "sha256": "bfb409526dc17101c10260e0bed41fd8a9d1b2321cad3b56771779e91801ab08",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:01:59.721048+00:00",
+      "seconds": 0.891
+    },
+    "full_proof": {
+      "id": "1707.03099",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03099v1.pdf",
+      "pages": 18,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:01:59.721048+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628335959839",
+      "etag": "\"095537a1f1f1977fa40deb45615adebf\"",
+      "bytes_read": 235248,
+      "pdf_sha256": "91e23dea45262c4b54a42798f6e32810bbcdb0601edbb831c7be1bf829b396cd",
+      "native_pages": 18,
+      "poppler_pages": 18
+    },
+    "full_pages": 18,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.FA",
+    "id": "1707.00923",
+    "range_pages": 6,
+    "range_proof": {
+      "id": "1707.00923",
+      "pages": 6,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00923v1.pdf",
+      "generation": "1593628201700638",
+      "etag": "\"6a5da25729edd7514abbfee4647b8878\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 90299-106682/106683",
+          "sha256": "1cf0f3657ebc5052c8b92cf521137d0f9bda2cbc86fbea499a82f03a5e11602b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/106683",
+          "sha256": "f0f3e2158feebb8601c5b3ee09e10cac708dbe958c539a6ea3b94191e8494643",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 16384-32767/106683",
+          "sha256": "271a71a6e999b94372fd14028ae466f351cc48f07ba3000a738005c25e404f8e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 32768-49151/106683",
+          "sha256": "7ebb7576c74ea21566c26d3c3d5380590592ffef3c70d535ed1e3567384a1977",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:01.531545+00:00",
+      "seconds": 1.562
+    },
+    "full_proof": {
+      "id": "1707.00923",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00923v1.pdf",
+      "pages": 6,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:01.531545+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628201700638",
+      "etag": "\"6a5da25729edd7514abbfee4647b8878\"",
+      "bytes_read": 106683,
+      "pdf_sha256": "4958bd6c57092e74f5b8270622e1d901c68eb47cd568d11177bc6d9923b965bf",
+      "native_pages": 6,
+      "poppler_pages": 6
+    },
+    "full_pages": 6,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.GM",
+    "id": "1706.10219",
+    "range_pages": 18,
+    "range_proof": {
+      "id": "1706.10219",
+      "pages": 18,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.10219v1.pdf",
+      "generation": "1593628139840690",
+      "etag": "\"04727ba6d77fdf869fb7f89b45d52039\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 400986-417369/417370",
+          "sha256": "133d73269667f96e03269036b94871d60fba1052eab091847ef9bd692fe322cf",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/417370",
+          "sha256": "f58dcac5e648faa5870909edc504f9bed1223a4769f50673c59553bf7aba6dfb",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 360448-376831/417370",
+          "sha256": "1fc1afb3b73f7ba99b950f34946709240ea4e2e180079a006b50f887ed6b4f43",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 376832-393215/417370",
+          "sha256": "9c81e772257fb6e2f89b0d6bb39f4260251349ac746cb9698375fca56eb26b97",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:01.597037+00:00",
+      "seconds": 1.563
+    },
+    "full_proof": {
+      "id": "1706.10219",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.10219v1.pdf",
+      "pages": 18,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:01.597037+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628139840690",
+      "etag": "\"04727ba6d77fdf869fb7f89b45d52039\"",
+      "bytes_read": 417370,
+      "pdf_sha256": "17c81a1a646a4abaf4999c6d78e4f50ef356b3e7ac234a5a6b42a555a1ac6755",
+      "native_pages": 18,
+      "poppler_pages": 18
+    },
+    "full_pages": 18,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.GN",
+    "id": "1707.02624",
+    "range_pages": 5,
+    "range_proof": {
+      "id": "1707.02624",
+      "pages": 5,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02624v1.pdf",
+      "generation": "1593628305893714",
+      "etag": "\"9cc800d88dfa5f63532de29198952de5\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 110553-126936/126937",
+          "sha256": "f7cd8556917539b0cf177fa429b3192aa6fb311334addfa0111fb9cc330486de",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/126937",
+          "sha256": "3834c53a8062e6e0c5465a58aea2f79d02b710541d21ccbe2283694768c6198a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 32768-49151/126937",
+          "sha256": "f8188a1744197ac6d4de83c56dd81105ae41b5c5c6f297de98d82a50ef584369",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:01.869385+00:00",
+      "seconds": 0.172
+    },
+    "full_proof": {
+      "id": "1707.02624",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02624v1.pdf",
+      "pages": 5,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:01.869385+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628305893714",
+      "etag": "\"9cc800d88dfa5f63532de29198952de5\"",
+      "bytes_read": 126937,
+      "pdf_sha256": "96a20bbe412310b17cbc114a7b78c2978d805532e3c39c41e71892d355c4f466",
+      "native_pages": 5,
+      "poppler_pages": 5
+    },
+    "full_pages": 5,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.DS",
+    "id": "1707.00037",
+    "range_pages": 6,
+    "range_proof": {
+      "id": "1707.00037",
+      "pages": 6,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00037v1.pdf",
+      "generation": "1593628149083301",
+      "etag": "\"0dcf734369fd6284dcb2ea19b4f77fad\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 274220-290603/290604",
+          "sha256": "96e5dd776f32ade90d848fbed2981b7dcb38257ba68d2a1d8e9467a6487381aa",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/290604",
+          "sha256": "11c4c9f890e948d1d825183dc6ff01e23e6dbc37eb0460cf34e339c982c01e86",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/290604",
+          "sha256": "e7d783b2d168262fb9ee30de259a4ce9eab03803666c9b67c460cc600839f60d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 245760-262143/290604",
+          "sha256": "57bc8dd5f3d7f3ccacf5e207c45ff992e3a7b4a36a66cb49437e427825ce32ab",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:01.724892+00:00",
+      "seconds": 1.765
+    },
+    "full_proof": {
+      "id": "1707.00037",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00037v1.pdf",
+      "pages": 6,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:01.724892+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628149083301",
+      "etag": "\"0dcf734369fd6284dcb2ea19b4f77fad\"",
+      "bytes_read": 290604,
+      "pdf_sha256": "436d98c062b19a69fd7dc773490ee0ebb29bd81bfe02bbe17cd7ab5d2f6d0eb3",
+      "native_pages": 6,
+      "poppler_pages": 6
+    },
+    "full_pages": 6,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.GR",
+    "id": "1707.02151",
+    "range_pages": 50,
+    "range_proof": {
+      "id": "1707.02151",
+      "pages": 50,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02151v1.pdf",
+      "generation": "1593628273169253",
+      "etag": "\"48b84e61ad38051e9064f302505bec36\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 499085-515468/515469",
+          "sha256": "ebea8fc90c40ed2d278c1d300aea5aba22cef9b1e64639c55865f3af103e296c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/515469",
+          "sha256": "dc1f9c42eb5d878dea72731755da0bd8d4b8e20339082197785c7c5dd841bc33",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 311296-327679/515469",
+          "sha256": "2d444109474d6b47bbbe7eb3681cede04300a294b1c3e9d6533c04c40f5b00a4",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:02.362834+00:00",
+      "seconds": 0.25
+    },
+    "full_proof": {
+      "id": "1707.02151",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02151v1.pdf",
+      "pages": 50,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:02.362834+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628273169253",
+      "etag": "\"48b84e61ad38051e9064f302505bec36\"",
+      "bytes_read": 515469,
+      "pdf_sha256": "4687b1fae44c07a5b151e6d89a767d7dbac2a5cddc078dafd40ad8014c3f06b6",
+      "native_pages": 50,
+      "poppler_pages": 50
+    },
+    "full_pages": 50,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.GT",
+    "id": "1707.05983",
+    "range_pages": 17,
+    "range_proof": {
+      "id": "1707.05983",
+      "pages": 17,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05983v1.pdf",
+      "generation": "1593628504271621",
+      "etag": "\"c5d53b1bc6c8b67fbf462b5266b34a89\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 412006-428389/428390",
+          "sha256": "ad05289da92a53f428cd6444726c59f3a9192b98223bd5ecee7435211e95beaa",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/428390",
+          "sha256": "7c92513898f924762bc169f3e672882bfaf31dd53749f44bf05613ddd0421ac8",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 163840-180223/428390",
+          "sha256": "2884e14e3eff293b9dc45f22e7e86607643b842ceb883fbe0b6ef472ec047803",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:02.134341+00:00",
+      "seconds": 0.25
+    },
+    "full_proof": {
+      "id": "1707.05983",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05983v1.pdf",
+      "pages": 17,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:02.134341+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628504271621",
+      "etag": "\"c5d53b1bc6c8b67fbf462b5266b34a89\"",
+      "bytes_read": 428390,
+      "pdf_sha256": "c37279a8f0d0dc658995182b0129f035b92716b652fe09e5a2d6f434c3287cfb",
+      "native_pages": 17,
+      "poppler_pages": 17
+    },
+    "full_pages": 17,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.IT",
+    "id": "1706.05347",
+    "range_pages": 32,
+    "range_proof": {
+      "id": "1706.05347",
+      "pages": 32,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.05347v1.pdf",
+      "generation": "1593627824962637",
+      "etag": "\"2cf0b1c6a478e5d283cc7f2a27a005d6\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 828262-844645/844646",
+          "sha256": "c846acac4d9613b7d2354c25b9af33eb254a23f7cb34fae3505093921f66647a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/844646",
+          "sha256": "b8b2ae2140fe8a5aeecff84c1808eb00b963a9c97094f2ae97644973d190b626",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 245760-262143/844646",
+          "sha256": "bc0346bd67da5df1a11e804148874a9f1b9109476afcd5b8187ac54e904ec148",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:02.452855+00:00",
+      "seconds": 0.219
+    },
+    "full_proof": {
+      "id": "1706.05347",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.05347v1.pdf",
+      "pages": 32,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:02.452855+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593627824962637",
+      "etag": "\"2cf0b1c6a478e5d283cc7f2a27a005d6\"",
+      "bytes_read": 844646,
+      "pdf_sha256": "e0a61ba5a4255ad9c0bf89fc5ddb09612099d2e24468f3cef0a5aafa25bbc27b",
+      "native_pages": 32,
+      "poppler_pages": 32
+    },
+    "full_pages": 32,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.HO",
+    "id": "1707.05494",
+    "range_pages": 50,
+    "range_proof": {
+      "id": "1707.05494",
+      "pages": 50,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05494v1.pdf",
+      "generation": "1593628475892649",
+      "etag": "\"bda35a46debfb4c6ba01c01884ff38ae\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 1436192-1452575/1452576",
+          "sha256": "fbabc6edb4f13f60bc9d9b633edbde0e3d0c64d12876a171e62a810260a6b14d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1452576",
+          "sha256": "0cb3ae2eff8c55fd07b085626024a13aa114e5f4cb6da8abbdd37de9b100e569",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1409024-1425407/1452576",
+          "sha256": "5bae20ccd3d6e179a96ab9058573ed7b7ef91a2548ba294f0a858604a83b5abf",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:02.450854+00:00",
+      "seconds": 0.234
+    },
+    "full_proof": {
+      "id": "1707.05494",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05494v1.pdf",
+      "pages": 50,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:02.450854+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628475892649",
+      "etag": "\"bda35a46debfb4c6ba01c01884ff38ae\"",
+      "bytes_read": 1452576,
+      "pdf_sha256": "2f049127fc1e4c5164037db1c729070e4b664ffbff1f754eac62907feb9db563",
+      "native_pages": 50,
+      "poppler_pages": 50
+    },
+    "full_pages": 50,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.LO",
+    "id": "1707.02123",
+    "range_pages": 20,
+    "range_proof": {
+      "id": "1707.02123",
+      "pages": 20,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02123v1.pdf",
+      "generation": "1593628271540531",
+      "etag": "\"f5d0b02c4ce4d12a653c2141c779be93\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 219623-236006/236007",
+          "sha256": "8312cd714f6cfbadbae1de13c5b92196b543a21535521b880537bd54ab6a3c92",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/236007",
+          "sha256": "0aa2d84007e1088eae11655e226e4afefb045636589498f1e391cef2842ded51",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 98304-114687/236007",
+          "sha256": "e747218fc5b4000c027bd326eccd7c7d6ba9e96acb39cd7bb65b3977002598cb",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:03.465729+00:00",
+      "seconds": 0.344
+    },
+    "full_proof": {
+      "id": "1707.02123",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02123v1.pdf",
+      "pages": 20,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:03.465729+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628271540531",
+      "etag": "\"f5d0b02c4ce4d12a653c2141c779be93\"",
+      "bytes_read": 236007,
+      "pdf_sha256": "dcab4cdd1d79ce83ca281005ae967de0212855382d2f8b6c031bea5c9beccfbc",
+      "native_pages": 20,
+      "poppler_pages": 20
+    },
+    "full_pages": 20,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.MP",
+    "id": "1707.00895",
+    "range_pages": 28,
+    "range_proof": {
+      "id": "1707.00895",
+      "pages": 28,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00895v1.pdf",
+      "generation": "1593628199242525",
+      "etag": "\"08dc7940418ca7f4a6bf247cb2b0476d\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 248298-264681/264682",
+          "sha256": "30b2a470c7f85cb02930f9e0071d9d6f3e852ce2751cfa6cc2369cf3b394ff3f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/264682",
+          "sha256": "dbcb56812610111bbd4e753b8df14ca920f1d8b890bebd8dd1e54a689a0ee005",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/264682",
+          "sha256": "2324d62d515907b7be0c11668808d4a2a912d0dd30e59d40f8e0c8b481dd288b",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:03.651537+00:00",
+      "seconds": 0.328
+    },
+    "full_proof": {
+      "id": "1707.00895",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00895v1.pdf",
+      "pages": 28,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:03.651537+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628199242525",
+      "etag": "\"08dc7940418ca7f4a6bf247cb2b0476d\"",
+      "bytes_read": 264682,
+      "pdf_sha256": "9f5f838e866ee960230fe384cf6d0c55d4a9cb5602a6af2cb6cf46833ee76e82",
+      "native_pages": 28,
+      "poppler_pages": 28
+    },
+    "full_pages": 28,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.MG",
+    "id": "1707.01233",
+    "range_pages": 23,
+    "range_proof": {
+      "id": "1707.01233",
+      "pages": 23,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01233v1.pdf",
+      "generation": "1593628221099626",
+      "etag": "\"78e88c0f48284b22c5b716ec57edf5e5\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 292916-309299/309300",
+          "sha256": "e79bbf176afda0f0461874b98200e55b207f4777deb1fcc6584cab7170989ae5",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/309300",
+          "sha256": "965bda8e2f458464ec04f7329f4bee6239ad83667e75891c282717c188e1fc42",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/309300",
+          "sha256": "2cb33bb6f5c88b68d1e12447a692192c16fe481493a258be15b65cbb4917c6d6",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:03.757035+00:00",
+      "seconds": 0.281
+    },
+    "full_proof": {
+      "id": "1707.01233",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01233v1.pdf",
+      "pages": 23,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:03.757035+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628221099626",
+      "etag": "\"78e88c0f48284b22c5b716ec57edf5e5\"",
+      "bytes_read": 309300,
+      "pdf_sha256": "0f8a2c81b3fc2ba5d223700e1d57dc702893ca82e3fed6181181c7672bde31d0",
+      "native_pages": 23,
+      "poppler_pages": 23
+    },
+    "full_pages": 23,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.KT",
+    "id": "1707.02066",
+    "range_pages": 182,
+    "range_proof": {
+      "id": "1707.02066",
+      "pages": 182,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02066v1.pdf",
+      "generation": "1593628269405922",
+      "etag": "\"88ce90f649d9801de7159843d011bb4f\"",
+      "requests": 7,
+      "bytes_read": 114688,
+      "range_hashes": [
+        {
+          "range": "bytes 1151057-1167440/1167441",
+          "sha256": "3c97799b27f046c93a6a882cd94ea4374d70373a28aa56fc0e1fabac12e1f908",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1167441",
+          "sha256": "ed26eaf9c7e3d84954680aaffd54f0795b118961561297cd9f405f568160a162",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1114112-1130495/1167441",
+          "sha256": "ea2df88b8363afbb3eaad53d867e7ba00cf4957af74b993c7900dc1965dc77dd",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1130496-1146879/1167441",
+          "sha256": "901ae4259ff5ce60e29b8d454c45c0522c4c6ee91c2c9385babbbc6f3f159ed8",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1146880-1163263/1167441",
+          "sha256": "316c48a86d8d6c0415ab8ecfd1ed47e6dfc57d9e2550766da7d3a392e2657fb3",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 884736-901119/1167441",
+          "sha256": "2050fc4a0eba461c09ea4b538d5f44e9ab744de42680bb15a2c37d012ddc90d9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1097728-1114111/1167441",
+          "sha256": "286d59ddde6613c24a18cd98ca2a4bc7d87adce1ced1c5a9be0d2808bc50bd3b",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:03.715108+00:00",
+      "seconds": 0.672
+    },
+    "full_proof": {
+      "id": "1707.02066",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02066v1.pdf",
+      "pages": 182,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:03.715108+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628269405922",
+      "etag": "\"88ce90f649d9801de7159843d011bb4f\"",
+      "bytes_read": 1167441,
+      "pdf_sha256": "e4564a0180e00d14bdc3f6cedb1903a12662abdc0d00aa7751e923c749d386ee",
+      "native_pages": 182,
+      "poppler_pages": 182
+    },
+    "full_pages": 182,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.NT",
+    "id": "1707.01230",
+    "range_pages": 37,
+    "range_proof": {
+      "id": "1707.01230",
+      "pages": 37,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01230v1.pdf",
+      "generation": "1593628220757799",
+      "etag": "\"f71351a56cc94c536feb2f953342f000\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 441448-457831/457832",
+          "sha256": "53dad7e97a192db2fbd6b1f993ef876807349d4530edd241be365b298c25dcb6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/457832",
+          "sha256": "5846d934f2b7c12c27f81ccbf1882cfb085dca647d3ba7cd506d465aaf97e253",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 262144-278527/457832",
+          "sha256": "9acae4512fd6d98845b29e4aaa4287c7c6a3378d31b45ae5a961a38def7aa33c",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:04.379263+00:00",
+      "seconds": 0.422
+    },
+    "full_proof": {
+      "id": "1707.01230",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01230v1.pdf",
+      "pages": 37,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:04.379263+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628220757799",
+      "etag": "\"f71351a56cc94c536feb2f953342f000\"",
+      "bytes_read": 457832,
+      "pdf_sha256": "3270e1452c1b2c86ef77948ca2f7d221eca2f9c10d7fdddc509d486c2d909112",
+      "native_pages": 37,
+      "poppler_pages": 37
+    },
+    "full_pages": 37,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.OA",
+    "id": "1707.01778",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1707.01778",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01778v1.pdf",
+      "generation": "1593628252595623",
+      "etag": "\"f0d40318558a3798466d86272b0fc258\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 191292-207675/207676",
+          "sha256": "a0adbf8c88e486b9c8778e7beb99aeea0e0ff88c2a87811fa7ba6bb168a39a73",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/207676",
+          "sha256": "93117922aba6ff380959290f97e44b0c7ef17b17bfcaba94324645e9ba8a0b8b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 81920-98303/207676",
+          "sha256": "c767b23ab792453524fa4bd856f2bdcae947f2f4319b79240d618bba8b8d1ee6",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:04.676787+00:00",
+      "seconds": 0.297
+    },
+    "full_proof": {
+      "id": "1707.01778",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01778v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:04.676787+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628252595623",
+      "etag": "\"f0d40318558a3798466d86272b0fc258\"",
+      "bytes_read": 207676,
+      "pdf_sha256": "2a52907404825dc870fa514c0b1a8cabda564065ea5160b52ace3afe5455170f",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.OC",
+    "id": "1707.01560",
+    "range_pages": 11,
+    "range_proof": {
+      "id": "1707.01560",
+      "pages": 11,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01560v1.pdf",
+      "generation": "1593628240131626",
+      "etag": "\"7c6328b6b46aa5442b853d28ffed7049\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 311418-327801/327802",
+          "sha256": "7744266888473800935b84bf98582f725dce5da897286b1dbee32180d3385e4d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/327802",
+          "sha256": "6d176ee53e4b6beba307b1471b2aa6a289f0bd11e7fc69e53281301f5b5f618a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 147456-163839/327802",
+          "sha256": "24b430ab9ce0ab56ce778cd0cf1853b451623c5e1f8abffe7b5e99e983dd26f0",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:04.854956+00:00",
+      "seconds": 0.265
+    },
+    "full_proof": {
+      "id": "1707.01560",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.01560v1.pdf",
+      "pages": 11,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:04.854956+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628240131626",
+      "etag": "\"7c6328b6b46aa5442b853d28ffed7049\"",
+      "bytes_read": 327802,
+      "pdf_sha256": "79bc378bae324f038fe820c8ea89afba977589e98fd72e1c1d60eff3dd13547a",
+      "native_pages": 11,
+      "poppler_pages": 11
+    },
+    "full_pages": 11,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.QA",
+    "id": "1707.00196",
+    "range_pages": 36,
+    "range_proof": {
+      "id": "1707.00196",
+      "pages": 36,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00196v1.pdf",
+      "generation": "1593628159707866",
+      "etag": "\"bb7ca8b088b4cede4910acd090ae7a6a\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 447553-463936/463937",
+          "sha256": "1ca2a5d974f9f3c683e27879b39863ab3f7cfb4aa8fe053ee592df5fd9239741",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/463937",
+          "sha256": "0a3811a2b3cc3d5e75185f7b52d2e9530f3dfd2ecd14c9b4f821a171c0aca948",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 245760-262143/463937",
+          "sha256": "42e8c80e2bf18a8bfea6b02eb106eb61d0574786536107bd5ce7eda7558540f3",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:05.342844+00:00",
+      "seconds": 0.282
+    },
+    "full_proof": {
+      "id": "1707.00196",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.00196v1.pdf",
+      "pages": 36,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:05.342844+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628159707866",
+      "etag": "\"bb7ca8b088b4cede4910acd090ae7a6a\"",
+      "bytes_read": 463937,
+      "pdf_sha256": "aaaf5dbd508b100fd47058971bf1cc9e8fdf182e20129b9165aba0df32244556",
+      "native_pages": 36,
+      "poppler_pages": 36
+    },
+    "full_pages": 36,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.PR",
+    "id": "1707.02253",
+    "range_pages": 27,
+    "range_proof": {
+      "id": "1707.02253",
+      "pages": 27,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02253v1.pdf",
+      "generation": "1593628280150682",
+      "etag": "\"a652e0821641f5939bbad563d93a43a9\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 210863-227246/227247",
+          "sha256": "964cca6657202f598eec55e961bae4dec216ca079dda45917c691a4dfe806e74",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/227247",
+          "sha256": "4179466773957d954bea60b5c7b73a5e632e8a8fff5906012e293e6e80ea62fb",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 163840-180223/227247",
+          "sha256": "f416ae0d4a122d7edf063be614189337ee1a75be1888c3ae7a185a9f93274692",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:05.228879+00:00",
+      "seconds": 0.297
+    },
+    "full_proof": {
+      "id": "1707.02253",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02253v1.pdf",
+      "pages": 27,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:05.228879+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628280150682",
+      "etag": "\"a652e0821641f5939bbad563d93a43a9\"",
+      "bytes_read": 227247,
+      "pdf_sha256": "940493795bb852d0d23699b67c6e242ee7306917431e10cf7d1b5cdba162e76f",
+      "native_pages": 27,
+      "poppler_pages": 27
+    },
+    "full_pages": 27,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.RT",
+    "id": "1706.10044",
+    "range_pages": 29,
+    "range_proof": {
+      "id": "1706.10044",
+      "pages": 29,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.10044v1.pdf",
+      "generation": "1593628129937047",
+      "etag": "\"672e75ca246821707688d34fc10c4d1e\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 290138-306521/306522",
+          "sha256": "430f09f10253e79881e9b685204c8dddfcd9ed25f3a9e1585482e6e6ea0a2057",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/306522",
+          "sha256": "634d39b0394088394ae0d3a0093ce68fb4b17b8f086d4196692e5f88b8bbec47",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 196608-212991/306522",
+          "sha256": "12c924a2403716a212ec03d9174648057fbe1109e4fb990878bbd86897cf1414",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:05.662972+00:00",
+      "seconds": 0.563
+    },
+    "full_proof": {
+      "id": "1706.10044",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.10044v1.pdf",
+      "pages": 29,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:05.662972+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628129937047",
+      "etag": "\"672e75ca246821707688d34fc10c4d1e\"",
+      "bytes_read": 306522,
+      "pdf_sha256": "cf98c01b08377710613311eff59a89beaf357507f6220b8f760138b66428dda1",
+      "native_pages": 29,
+      "poppler_pages": 29
+    },
+    "full_pages": 29,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.RA",
+    "id": "1707.02822",
+    "range_pages": 21,
+    "range_proof": {
+      "id": "1707.02822",
+      "pages": 21,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02822v1.pdf",
+      "generation": "1593628318412814",
+      "etag": "\"c778f0fd888d5793ef7c15a5b633acf4\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 240821-257204/257205",
+          "sha256": "d4be5adc4cb73b2816d66d7195be685439d2f374679810f6b4cf4b80743925b6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/257205",
+          "sha256": "e8426b0df9c80c6ab63fbc973a2c6fb7b298bf073e3bab71873edbd94422c359",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/257205",
+          "sha256": "b2d49da39b66869f927fe3667c911d5f770089f78574e6733ea26026005711ae",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:06.165067+00:00",
+      "seconds": 0.422
+    },
+    "full_proof": {
+      "id": "1707.02822",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02822v1.pdf",
+      "pages": 21,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:06.165067+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628318412814",
+      "etag": "\"c778f0fd888d5793ef7c15a5b633acf4\"",
+      "bytes_read": 257205,
+      "pdf_sha256": "70fbe3c5e8db217b80ac53f74c60e6e9ce49bb32611f23df33a4adf800269a02",
+      "native_pages": 21,
+      "poppler_pages": 21
+    },
+    "full_pages": 21,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.SP",
+    "id": "1706.09103",
+    "range_pages": 16,
+    "range_proof": {
+      "id": "1706.09103",
+      "pages": 16,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.09103v1.pdf",
+      "generation": "1593628069105618",
+      "etag": "\"bb55e98661eebb7ccc36dea012e395b3\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 209319-225702/225703",
+          "sha256": "1162ab14ce90711f3621eb2ccd821ef239c9ff2aa1e27d9cfec8505bcc623da9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/225703",
+          "sha256": "7e3b35ad15be0a64e0fb1a124ff470c210058963951bfd4ed6cb8f08018f12cc",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 98304-114687/225703",
+          "sha256": "1ff3f7fdbcf21d7aac98d2e230a57866067856b0a5199a13e0c6780a6ed5eae5",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:06.297191+00:00",
+      "seconds": 0.313
+    },
+    "full_proof": {
+      "id": "1706.09103",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1706/1706.09103v1.pdf",
+      "pages": 16,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:06.297191+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628069105618",
+      "etag": "\"bb55e98661eebb7ccc36dea012e395b3\"",
+      "bytes_read": 225703,
+      "pdf_sha256": "9c0c2b471677efd91af191baa1d492c6c44fc3dac5d184e28d594d1d4c1e58e8",
+      "native_pages": 16,
+      "poppler_pages": 16
+    },
+    "full_pages": 16,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.NA",
+    "id": "1707.03227",
+    "range_pages": 38,
+    "range_proof": {
+      "id": "1707.03227",
+      "pages": 38,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03227v1.pdf",
+      "generation": "1593628344342269",
+      "etag": "\"549e8141329c0718c10d863a58f4fee4\"",
+      "requests": 6,
+      "bytes_read": 98304,
+      "range_hashes": [
+        {
+          "range": "bytes 2598463-2614846/2614847",
+          "sha256": "a939ab1006d9254517985d3bb8ecb8a370bd5071ae7ce1b430c6d07f79172864",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/2614847",
+          "sha256": "dbbc8d10df305d59316acf84ee0afdf6b6777ccbfaf91e7173b426cfce6c90c6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2572288-2588671/2614847",
+          "sha256": "a77c8374bad470be281be7a969bdfcbb22bf0a2b3e28730dcee9b5ed57f5af6c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2588672-2605055/2614847",
+          "sha256": "cc1e9f564a68e6e5eef0caab86d7a399dc2bfc38f53e42ebfdef8bf677a194fa",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2293760-2310143/2614847",
+          "sha256": "bd0cb2f7c9b68056f840a0190758057982c73af8f47e2542fe5104302ba8acb9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2555904-2572287/2614847",
+          "sha256": "20b51749d43a0b6f63f67f4dccb97c5106452511b573138778a49620f2dfadd3",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:04.789036+00:00",
+      "seconds": 0.625
+    },
+    "full_proof": {
+      "id": "1707.03227",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.03227v1.pdf",
+      "pages": 38,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:04.789036+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628344342269",
+      "etag": "\"549e8141329c0718c10d863a58f4fee4\"",
+      "bytes_read": 2614847,
+      "pdf_sha256": "1f74466d647564e09a16c2d99dbd11a96e993e1448a1bf7ceb0fbb09fdf32122",
+      "native_pages": 38,
+      "poppler_pages": 38
+    },
+    "full_pages": 38,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.ST",
+    "id": "1707.02352",
+    "range_pages": 56,
+    "range_proof": {
+      "id": "1707.02352",
+      "pages": 56,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02352v1.pdf",
+      "generation": "1593628288513471",
+      "etag": "\"979476cd393dd3025fd48d9acc725cbc\"",
+      "requests": 5,
+      "bytes_read": 81920,
+      "range_hashes": [
+        {
+          "range": "bytes 909523-925906/925907",
+          "sha256": "a4f0c9db0d5430879051684a2bf84e84fa3ce202e9ef7b7db2652cd5666cfdf4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/925907",
+          "sha256": "ab33513b78ee779772cd47b32e5f8e0bf477c71504804fc4ac1f425647d6f3a7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 884736-901119/925907",
+          "sha256": "b61eda99af2abe36cdb6f0a7d07337637e290622257d8f08816f4a124ca1f738",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 901120-917503/925907",
+          "sha256": "a0ba7c79e765c0b288c3323385b51cc5641ec7bc184b763be51fa4daa2224b88",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 688128-704511/925907",
+          "sha256": "aa9cbbe19c04b352d94b0af431140f99c5cd9c387e34efa84891c0ddc9c3f2c4",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:06.840977+00:00",
+      "seconds": 0.547
+    },
+    "full_proof": {
+      "id": "1707.02352",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.02352v1.pdf",
+      "pages": 56,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:06.841986+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628288513471",
+      "etag": "\"979476cd393dd3025fd48d9acc725cbc\"",
+      "bytes_read": 925907,
+      "pdf_sha256": "e161b029383d3c4d5268703db1fb3652873609e33d3d14b84088ca70758e7b9f",
+      "native_pages": 56,
+      "poppler_pages": 56
+    },
+    "full_pages": 56,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2017,
+    "category": "math.SG",
+    "id": "1707.05351",
+    "range_pages": 19,
+    "range_proof": {
+      "id": "1707.05351",
+      "pages": 19,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05351v1.pdf",
+      "generation": "1593628467830506",
+      "etag": "\"82955f1b1cf26d19066d9a73fe4590a5\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 306819-323202/323203",
+          "sha256": "39be92dbd671217aa12991f55b6010885c15c8ffb42cb1d6f45e5bd3b79c6039",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/323203",
+          "sha256": "9c05148878ef982b58992f29febcae1dc3701bfb0d1a7bb5f3817157848704de",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/323203",
+          "sha256": "7661dbe2d9cac3a52b680e4e847e29a611e88bf7b7efdeae46cfd602949de08a",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:07.078938+00:00",
+      "seconds": 0.359
+    },
+    "full_proof": {
+      "id": "1707.05351",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1707/1707.05351v1.pdf",
+      "pages": 19,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:07.078938+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593628467830506",
+      "etag": "\"82955f1b1cf26d19066d9a73fe4590a5\"",
+      "bytes_read": 323203,
+      "pdf_sha256": "d63bcbeede664abd646a31e3f090e552417b5204512f15cd624b99a631451d4a",
+      "native_pages": 19,
+      "poppler_pages": 19
+    },
+    "full_pages": 19,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.AG",
+    "id": "1807.01932",
+    "range_pages": 46,
+    "range_proof": {
+      "id": "1807.01932",
+      "pages": 46,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01932v1.pdf",
+      "generation": "1593636702854055",
+      "etag": "\"08baad56aa9817c2ed21769ca37b5f53\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 466130-482513/482514",
+          "sha256": "146632dc79fb58e49573f8987c86acaeb31afe49185f0cfc94e7ce44644e675b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/482514",
+          "sha256": "69ea30ea8422fdadb8e00c0b79dc8cb7de6550f9cfd500ca6e21e77b25bfc1b0",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 458752-475135/482514",
+          "sha256": "3339fbf037b8f792fd18f0cafdd640b870664ef32f05cd4183ca734f095cc82b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 278528-294911/482514",
+          "sha256": "0e5aeea1b6a91f89b675bd9d9fc8d8f5ad4b79a8d007fb4997a7d1fa04155c74",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:07.294362+00:00",
+      "seconds": 0.407
+    },
+    "full_proof": {
+      "id": "1807.01932",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01932v1.pdf",
+      "pages": 46,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:07.295564+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636702854055",
+      "etag": "\"08baad56aa9817c2ed21769ca37b5f53\"",
+      "bytes_read": 482514,
+      "pdf_sha256": "1499d77a2b0b0fe44ccc64df93e0717a7a1660bb519236197a354e283d1561d1",
+      "native_pages": 46,
+      "poppler_pages": 46
+    },
+    "full_pages": 46,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.AT",
+    "id": "1807.09149",
+    "range_pages": 18,
+    "range_proof": {
+      "id": "1807.09149",
+      "pages": 18,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.09149v1.pdf",
+      "generation": "1593637157190769",
+      "etag": "\"eb52b07df99ce90c8df97fc878f4c926\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 158001-174384/174385",
+          "sha256": "2a8b1cee00be487280c048416c796ca16dba928ccfa97a6d0e816f686502c689",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/174385",
+          "sha256": "85b23b9ed691a46ad8fde922db5515fb42f35059904caa908440c1809f1d5192",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 81920-98303/174385",
+          "sha256": "841be7706564c6b42c75f81c55410eec2aeedb3f30deda9e7f4c3cedb58df8db",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:07.515046+00:00",
+      "seconds": 0.234
+    },
+    "full_proof": {
+      "id": "1807.09149",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.09149v1.pdf",
+      "pages": 18,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:07.515046+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593637157190769",
+      "etag": "\"eb52b07df99ce90c8df97fc878f4c926\"",
+      "bytes_read": 174385,
+      "pdf_sha256": "9b005216f621fa19ca9238aadeef149c9220793e5ac36763341cf4a5cb77d067",
+      "native_pages": 18,
+      "poppler_pages": 18
+    },
+    "full_pages": 18,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.CA",
+    "id": "1807.00356",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1807.00356",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00356v1.pdf",
+      "generation": "1593636600115405",
+      "etag": "\"54b4efc818d1ff699bf05f41da4f9f7e\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 154226-170609/170610",
+          "sha256": "df873a722cbb4c031307deba6131747546906acca7507938e1b626f868141df4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/170610",
+          "sha256": "978f6fe1a18c389b3354c34f9233d05c11ac27f9bc4e6305d81206ff07547132",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/170610",
+          "sha256": "7a3dfa1187848a1fac5a07e2d74651c447ddebe827c0aa07bdc79586c597080a",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.124345+00:00",
+      "seconds": 0.219
+    },
+    "full_proof": {
+      "id": "1807.00356",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00356v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.124345+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636600115405",
+      "etag": "\"54b4efc818d1ff699bf05f41da4f9f7e\"",
+      "bytes_read": 170610,
+      "pdf_sha256": "6a8a5f69d43517a30c03641bbdabd136d53a1e7ae605c746cf20765cb4353a13",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.CT",
+    "id": "1807.03164",
+    "range_pages": 24,
+    "range_proof": {
+      "id": "1807.03164",
+      "pages": 24,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03164v1.pdf",
+      "generation": "1593636788730483",
+      "etag": "\"8150d8a32f30b14f4e9dde18e837327c\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 366202-382585/382586",
+          "sha256": "3685401fc17db6699ef5bf507ed2efbe2cfc3a32414e858d9f745639b4d4aa0d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/382586",
+          "sha256": "94b49901e4e21f7dcb97f726fda885eabe2a587cc076da7204a33e2a9b083602",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/382586",
+          "sha256": "694bd8ac21731059362841600a24a4ed107846bacdf058434caa1fba6f4c8114",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.083868+00:00",
+      "seconds": 0.313
+    },
+    "full_proof": {
+      "id": "1807.03164",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03164v1.pdf",
+      "pages": 24,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.083868+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636788730483",
+      "etag": "\"8150d8a32f30b14f4e9dde18e837327c\"",
+      "bytes_read": 382586,
+      "pdf_sha256": "f940a06b7f53c5f70da48f448ee09755c82dfdd9a45edbea10630d2c7e9edea5",
+      "native_pages": 24,
+      "poppler_pages": 24
+    },
+    "full_pages": 24,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.AP",
+    "id": "1807.01843",
+    "range_pages": 33,
+    "range_proof": {
+      "id": "1807.01843",
+      "pages": 33,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01843v1.pdf",
+      "generation": "1593636698042583",
+      "etag": "\"0c3ab6717f16beb548af90ef8e997039\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 654089-670472/670473",
+          "sha256": "41d2e8b44d5f0e9d627f9b298efbbbfe208e15403fc80789021be8a861ac18eb",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/670473",
+          "sha256": "a3f91130ae7b7aa61c6a64aa37b649078675d77458153d217cfc36ccb3add9d6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 638976-655359/670473",
+          "sha256": "fbf2c2849846d1da92375d285a4ca9f3849a171119522c9d0ebcafdae6195e51",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 491520-507903/670473",
+          "sha256": "7907bb2bda139db8f97febfa5ce4ada9389f230e47543d4016c34f0b4e8fb621",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.036211+00:00",
+      "seconds": 0.422
+    },
+    "full_proof": {
+      "id": "1807.01843",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01843v1.pdf",
+      "pages": 33,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.036211+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636698042583",
+      "etag": "\"0c3ab6717f16beb548af90ef8e997039\"",
+      "bytes_read": 670473,
+      "pdf_sha256": "b91cfddda8efe36cd289420352afca27defc921ddf454e4d514b6e38e7bb7414",
+      "native_pages": 33,
+      "poppler_pages": 33
+    },
+    "full_pages": 33,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.CO",
+    "id": "1807.02384",
+    "range_pages": 55,
+    "range_proof": {
+      "id": "1807.02384",
+      "pages": 55,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02384v1.pdf",
+      "generation": "1593636738178111",
+      "etag": "\"35d2132491d5e1d84844a6af1c43441c\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 566711-583094/583095",
+          "sha256": "fe7d3446c38e488fe282a20ce74ff4a6f795c37d531af4cedd104ff26feb2ef6",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/583095",
+          "sha256": "e79f08de41a8ae9c03d6830bffd207fc48131f5fd3c110041849030b75abcbb4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 557056-573439/583095",
+          "sha256": "b58b668511e30b9d46385b91a66cc9cc1b0f5b57b440f6d09a474f1dd2c3b230",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 327680-344063/583095",
+          "sha256": "d2ade0aa3cd04ce6e021804909a359b2ad47e547183c0aeb15689e4e28533cf2",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.386684+00:00",
+      "seconds": 0.343
+    },
+    "full_proof": {
+      "id": "1807.02384",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02384v1.pdf",
+      "pages": 55,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.386684+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636738178111",
+      "etag": "\"35d2132491d5e1d84844a6af1c43441c\"",
+      "bytes_read": 583095,
+      "pdf_sha256": "1d721bc84b2d5766947d63ea5a42fe84d6954a6ea6c52a8936f1ab0803535ba5",
+      "native_pages": 55,
+      "poppler_pages": 55
+    },
+    "full_pages": 55,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.AC",
+    "id": "1806.07929",
+    "range_pages": 11,
+    "range_proof": {
+      "id": "1806.07929",
+      "pages": 11,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.07929v1.pdf",
+      "generation": "1593636349647984",
+      "etag": "\"2d9b5fcda90698107c821efdad3ee56f\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 154667-171050/171051",
+          "sha256": "7ef3aa4bb0020da1a27d7bdb13dbc7ac7d5f1be86653e63ddd394dccf1e7434e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/171051",
+          "sha256": "939f607c8ec34b3438a6323aeaa48149257cf9c4c5f485ec76370fb7a6a2633f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/171051",
+          "sha256": "c7e7e7353ddc54e08d2574a0f1d6c017c95a7fa182f308d6553af5c32635b2b3",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.757262+00:00",
+      "seconds": 0.328
+    },
+    "full_proof": {
+      "id": "1806.07929",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.07929v1.pdf",
+      "pages": 11,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.757262+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636349647984",
+      "etag": "\"2d9b5fcda90698107c821efdad3ee56f\"",
+      "bytes_read": 171051,
+      "pdf_sha256": "b81e9feae3d904973bb512d3fc0c1341b9c3022fd8c92e58b0bc27632eb1100d",
+      "native_pages": 11,
+      "poppler_pages": 11
+    },
+    "full_pages": 11,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.DG",
+    "id": "1807.02266",
+    "range_pages": 30,
+    "range_proof": {
+      "id": "1807.02266",
+      "pages": 30,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02266v1.pdf",
+      "generation": "1593636730056755",
+      "etag": "\"2316516848245304ff78195805c3e447\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 308341-324724/324725",
+          "sha256": "d2de8411655cf47a6009aeeeedb49de8b7afca9eddd1b2e65d46a903bb0453d1",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/324725",
+          "sha256": "8cf28d2d771c010234e1df811f83f6fc32b6dfe80815400f32943902bc8f7e44",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 163840-180223/324725",
+          "sha256": "6f35955f1022681606e09d907260023bcc8383bf730c95ca945ab31d87115cdb",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:08.923035+00:00",
+      "seconds": 0.25
+    },
+    "full_proof": {
+      "id": "1807.02266",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02266v1.pdf",
+      "pages": 30,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:08.923035+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636730056755",
+      "etag": "\"2316516848245304ff78195805c3e447\"",
+      "bytes_read": 324725,
+      "pdf_sha256": "9d58bce0c8847b1896c81587d2bb5149fcd63b14981a0d74d9e1f91a806c4d7f",
+      "native_pages": 30,
+      "poppler_pages": 30
+    },
+    "full_pages": 30,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.DS",
+    "id": "1807.00107",
+    "range_pages": 6,
+    "range_proof": {
+      "id": "1807.00107",
+      "pages": 6,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00107v1.pdf",
+      "generation": "1593636587454137",
+      "etag": "\"61e36b7bc96ed04502ff31e5ff40e6e3\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 258817-275200/275201",
+          "sha256": "fe8f345b836fc5514e828707db046c53ce2c45fa97abc5f7c5397d91a762bdc8",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/275201",
+          "sha256": "4a2cb78269560c12f8079e2a1450a35ade357b6f623f65435a9ba99b5fa501df",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 212992-229375/275201",
+          "sha256": "c8e2fd1cdb6ced2cc53f4878f3bee9117d0a589608b56bdf7177e3c3bdca7b7a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/275201",
+          "sha256": "e0ddec0a8f5abd050b8c0c3e4d5fac1e653d287e829016f436dfc36baa27cd43",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:09.226706+00:00",
+      "seconds": 0.25
+    },
+    "full_proof": {
+      "id": "1807.00107",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00107v1.pdf",
+      "pages": 6,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:09.226706+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636587454137",
+      "etag": "\"61e36b7bc96ed04502ff31e5ff40e6e3\"",
+      "bytes_read": 275201,
+      "pdf_sha256": "4e2cb132b977bd4ffb7ae2b038a8b4ff9ade571bb29d5f880dca74cc78e85f6d",
+      "native_pages": 6,
+      "poppler_pages": 6
+    },
+    "full_pages": 6,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.CV",
+    "id": "1807.03183",
+    "range_pages": 18,
+    "range_proof": {
+      "id": "1807.03183",
+      "pages": 18,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03183v1.pdf",
+      "generation": "1593636789799479",
+      "etag": "\"bdf1b636afd26e7d59434758345b1b44\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 1185090-1201473/1201474",
+          "sha256": "39c300b06630de9fa5bc51897cf8a1128d22e700c79d99430d0220b4f683fab2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1201474",
+          "sha256": "deaf927e9af53fdf034325c227ca33260cbefda7e504e2a0e7dd41094f228423",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1064960-1081343/1201474",
+          "sha256": "249d3d440f15a879664e564b1db28b006421c27e4588b9ba9a5d317b0a7ea53f",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:09.062331+00:00",
+      "seconds": 0.406
+    },
+    "full_proof": {
+      "id": "1807.03183",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03183v1.pdf",
+      "pages": 18,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:09.062331+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636789799479",
+      "etag": "\"bdf1b636afd26e7d59434758345b1b44\"",
+      "bytes_read": 1201474,
+      "pdf_sha256": "0dd18be2429e4bb6725abcb2334d9f931049ac5663b44f65f578b74c866cbe17",
+      "native_pages": 18,
+      "poppler_pages": 18
+    },
+    "full_pages": 18,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.FA",
+    "id": "1806.10757",
+    "range_pages": 41,
+    "range_proof": {
+      "id": "1806.10757",
+      "pages": 41,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10757v1.pdf",
+      "generation": "1593636527753130",
+      "etag": "\"6579f3a5069bd05d46453e3c4e34961b\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 355649-372032/372033",
+          "sha256": "058de3a9e293a5f54d1f9514215653fb2c5c0835fdcca2b5e3eeca6ec8310b11",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/372033",
+          "sha256": "caa8a3e67879462517a003b3a24b7a0d00538af457e190e672a4f85eda8b7a9b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 212992-229375/372033",
+          "sha256": "dba471f9c62fbfb3c37f46e5264d53c4bdead26dbcf656519ebcaf0493c421c0",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:09.487683+00:00",
+      "seconds": 0.219
+    },
+    "full_proof": {
+      "id": "1806.10757",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10757v1.pdf",
+      "pages": 41,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:09.487683+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636527753130",
+      "etag": "\"6579f3a5069bd05d46453e3c4e34961b\"",
+      "bytes_read": 372033,
+      "pdf_sha256": "15e3ab900789739df336629f79de5f72edbafe59a9970a10a94e0fce85578f24",
+      "native_pages": 41,
+      "poppler_pages": 41
+    },
+    "full_pages": 41,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.GM",
+    "id": "1806.06007",
+    "range_pages": 8,
+    "range_proof": {
+      "id": "1806.06007",
+      "pages": 8,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.06007v1.pdf",
+      "generation": "1593636220160482",
+      "etag": "\"ed45d2134983469d9ccd58ab25a42872\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 148605-164988/164989",
+          "sha256": "1a2597d79b709a995b88aadf872387bae144af77da2bcceee04b264032ab85ff",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/164989",
+          "sha256": "63bef67e0d7f80ced8947f0f1450ced5b86f3f461941fcf3dd178fe885d2fa05",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 49152-65535/164989",
+          "sha256": "bab99ba41dc9645bc7dc687bca473d81f078fd1c10480f974e2f8858cc530690",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:09.709084+00:00",
+      "seconds": 0.329
+    },
+    "full_proof": {
+      "id": "1806.06007",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.06007v1.pdf",
+      "pages": 8,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:09.709084+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636220160482",
+      "etag": "\"ed45d2134983469d9ccd58ab25a42872\"",
+      "bytes_read": 164989,
+      "pdf_sha256": "b082b059323061e2d2f94f19fbfa7c3ced5905e2b92f1b3a6c5639cd6be5b27e",
+      "native_pages": 8,
+      "poppler_pages": 8
+    },
+    "full_pages": 8,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.GN",
+    "id": "1806.11524",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1806.11524",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.11524v1.pdf",
+      "generation": "1593636581156093",
+      "etag": "\"c994540d3db061fb182ebb5cd0ffc4f5\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 556462-572845/572846",
+          "sha256": "17195788ea75585dee1268d3a8b7e7c8344b29816d589573a2f208088f0845ca",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/572846",
+          "sha256": "50b11fb19a1f54163225d3d1f87569fd745cda8bcf43aeca2a4b393ec4c7ecaf",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 507904-524287/572846",
+          "sha256": "0d48e311c635ce702a12f4e0f23c02cd4340d19b331cc74fa91f16ca3c485150",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:09.895846+00:00",
+      "seconds": 0.281
+    },
+    "full_proof": {
+      "id": "1806.11524",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.11524v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:09.895846+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636581156093",
+      "etag": "\"c994540d3db061fb182ebb5cd0ffc4f5\"",
+      "bytes_read": 572846,
+      "pdf_sha256": "faa1b159fea91e69e6b6b4b5351c2989652dc978eff75680a85c728339300609",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.GT",
+    "id": "1807.00855",
+    "range_pages": 7,
+    "range_proof": {
+      "id": "1807.00855",
+      "pages": 7,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00855v1.pdf",
+      "generation": "1593636633004639",
+      "etag": "\"eaddcf2b9a5c0716bfe1b4913948a1c0\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 116753-133136/133137",
+          "sha256": "a1d512113323133e67935d065c9320eccaa1ef26af0c5e86f8fcf98723a02c9c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/133137",
+          "sha256": "7924024737fdaabc19ec5129e8d4bf7556c2e562c9a1534ef487d022310a7978",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 32768-49151/133137",
+          "sha256": "de844021475d3a399fbb40d784a34610481d07a0a49bbe7795e35fb2f40721f1",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.167314+00:00",
+      "seconds": 0.203
+    },
+    "full_proof": {
+      "id": "1807.00855",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00855v1.pdf",
+      "pages": 7,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.167314+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636633004639",
+      "etag": "\"eaddcf2b9a5c0716bfe1b4913948a1c0\"",
+      "bytes_read": 133137,
+      "pdf_sha256": "9afb9e02e1518d19a7c5fd532c018b35511dfaf31c0962d7f49addc7bfb0637b",
+      "native_pages": 7,
+      "poppler_pages": 7
+    },
+    "full_pages": 7,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.GR",
+    "id": "1806.10721",
+    "range_pages": 13,
+    "range_proof": {
+      "id": "1806.10721",
+      "pages": 13,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10721v1.pdf",
+      "generation": "1593636525680898",
+      "etag": "\"03e6a0a07c7b93fbf88e84500e1b3ef1\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 141377-157760/157761",
+          "sha256": "7842656456d6fb6065fa5b674cc8a0bea1de3249e0d15314c4840c390bf6de85",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/157761",
+          "sha256": "0fc3b5342c65a6607769cda0d8f8b730721f50358e4dd2f7e0d5570418d56a4b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/157761",
+          "sha256": "8fb75118211a32d8e414912eb39d54b5e3a6207322b3f599dd925fc78e28ba35",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.366211+00:00",
+      "seconds": 0.297
+    },
+    "full_proof": {
+      "id": "1806.10721",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10721v1.pdf",
+      "pages": 13,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.367356+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636525680898",
+      "etag": "\"03e6a0a07c7b93fbf88e84500e1b3ef1\"",
+      "bytes_read": 157761,
+      "pdf_sha256": "194e2e41b83a811778e9dfdae5451cd1e90b1ee06d63dc6bbbd6a8ae2170d8c6",
+      "native_pages": 13,
+      "poppler_pages": 13
+    },
+    "full_pages": 13,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.HO",
+    "id": "1806.08356",
+    "range_pages": 22,
+    "range_proof": {
+      "id": "1806.08356",
+      "pages": 22,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.08356v1.pdf",
+      "generation": "1595648095205300",
+      "etag": "\"e368ac11963c628b6c8ab49d52e02cfe\"",
+      "requests": 2,
+      "bytes_read": 32768,
+      "range_hashes": [
+        {
+          "range": "bytes 464878-481261/481262",
+          "sha256": "1213b74afa25c247b6a277e34989c400ee7aac814c56783082a72c8c309fa90d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/481262",
+          "sha256": "9cc8efbe4183ed95cd76a0af596f140d9db692d4e2fdde22a1640ca2dfbf32be",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.342004+00:00",
+      "seconds": 0.219
+    },
+    "full_proof": {
+      "id": "1806.08356",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.08356v1.pdf",
+      "pages": 22,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.342004+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1595648095205300",
+      "etag": "\"e368ac11963c628b6c8ab49d52e02cfe\"",
+      "bytes_read": 481262,
+      "pdf_sha256": "802ad9a6d6a88a2ab33c72ab66831211d4d19fee6ac4e05edb8179541990b5c3",
+      "native_pages": 22,
+      "poppler_pages": 22
+    },
+    "full_pages": 22,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.KT",
+    "id": "1807.04253",
+    "range_pages": 8,
+    "range_proof": {
+      "id": "1807.04253",
+      "pages": 8,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.04253v1.pdf",
+      "generation": "1593636854797926",
+      "etag": "\"4e18bcaa5ed248647281eda1686e0a9f\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 341913-358296/358297",
+          "sha256": "52f46b3c2e3377348572922f56a2594eee9a189eca5f3f04132bd805aff27bf5",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/358297",
+          "sha256": "f3212b94896a694b2561d8977c9a297e30f63a37d80c6f0e7b310bbd51e30c4c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 294912-311295/358297",
+          "sha256": "ffc43fc18206365247b397df0ee6d6757e892d77d36aea9d3b6dff3283fbdd3a",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.783338+00:00",
+      "seconds": 0.297
+    },
+    "full_proof": {
+      "id": "1807.04253",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.04253v1.pdf",
+      "pages": 8,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.783338+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636854797926",
+      "etag": "\"4e18bcaa5ed248647281eda1686e0a9f\"",
+      "bytes_read": 358297,
+      "pdf_sha256": "ec626d1f906533ccb839a11d2d146b9aba19010f274fabc3d515b1fb06c42a25",
+      "native_pages": 8,
+      "poppler_pages": 8
+    },
+    "full_pages": 8,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.LO",
+    "id": "1807.02868",
+    "range_pages": 22,
+    "range_proof": {
+      "id": "1807.02868",
+      "pages": 22,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02868v1.pdf",
+      "generation": "1593636769875933",
+      "etag": "\"beae4a9a546fe0164f98030a350de49e\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 243417-259800/259801",
+          "sha256": "a54b4ff8af23a1099b8d94d0f8a1e8137b4076c0802334f8fe7e2dbb000c58a4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/259801",
+          "sha256": "eae6134c2004d005e7c89422a3c98e988e9362cd61c85d257507329a47761a5f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 131072-147455/259801",
+          "sha256": "50c0f224fb7bf2749a8132489ff9df480234826305b7e6f5c71ecbb4e7cfa63d",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.910306+00:00",
+      "seconds": 0.203
+    },
+    "full_proof": {
+      "id": "1807.02868",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02868v1.pdf",
+      "pages": 22,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.910306+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636769875933",
+      "etag": "\"beae4a9a546fe0164f98030a350de49e\"",
+      "bytes_read": 259801,
+      "pdf_sha256": "0fef3e6437f7e119c1ab9f499e66109ab66b39007599779757473cb9830d9423",
+      "native_pages": 22,
+      "poppler_pages": 22
+    },
+    "full_pages": 22,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.IT",
+    "id": "1806.01799",
+    "range_pages": 54,
+    "range_proof": {
+      "id": "1806.01799",
+      "pages": 54,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.01799v1.pdf",
+      "generation": "1593635951532645",
+      "etag": "\"8182490091a4c0cb6c068acd6dc10731\"",
+      "requests": 6,
+      "bytes_read": 98304,
+      "range_hashes": [
+        {
+          "range": "bytes 1533561-1549944/1549945",
+          "sha256": "28d95ceafbecc3e17464cbc2439325b62ab451a8a638a51dc9fe0f8e4dfbe8a9",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/1549945",
+          "sha256": "f372eba65e0d29fa86638d2c728f2a8cc457b604376b517eb654f9b95a100f2d",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1507328-1523711/1549945",
+          "sha256": "489eaa35767cb0eb719e787966cd6cfce1a971ae29b46d3c9e8db64538015bf2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1523712-1540095/1549945",
+          "sha256": "39b97fe7d2d60c9368f6190ab0731b988aa211d62da31a16affbecd1a84a5063",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1228800-1245183/1549945",
+          "sha256": "de8ced690636d1c0e60d1e5c0f94112ba9ddf191cba0035a4e1e0764e1fb9b2e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 1474560-1490943/1549945",
+          "sha256": "a5d1952595fb939225d16805dff805b3f7fd2f0c4bf7a30395ba1489a5dca413",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:10.822607+00:00",
+      "seconds": 0.469
+    },
+    "full_proof": {
+      "id": "1806.01799",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.01799v1.pdf",
+      "pages": 54,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:10.822607+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593635951532645",
+      "etag": "\"8182490091a4c0cb6c068acd6dc10731\"",
+      "bytes_read": 1549945,
+      "pdf_sha256": "6d9090c9bd838a37b498187e6b5d39cd7fbc0acbd3c31995721adeedb634468c",
+      "native_pages": 54,
+      "poppler_pages": 54
+    },
+    "full_pages": 54,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.MP",
+    "id": "1807.03659",
+    "range_pages": 16,
+    "range_proof": {
+      "id": "1807.03659",
+      "pages": 16,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03659v1.pdf",
+      "generation": "1593636819763906",
+      "etag": "\"69a0682b01f17dcddd87c15623235024\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 195914-212297/212298",
+          "sha256": "f7da3f59f93d02956230648c7ac1436da2f07938c1281728589c62c5409188a7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/212298",
+          "sha256": "00ed5a44b4cc2dbfae9a1e7c3ad2f5877f581a8c7ae30aae1bb60ffa016fc75c",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 81920-98303/212298",
+          "sha256": "869c5889cc3e023327e16ac558c42d48a98a4eb541c85af38b4d87513f17cdb0",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:11.129956+00:00",
+      "seconds": 0.312
+    },
+    "full_proof": {
+      "id": "1807.03659",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03659v1.pdf",
+      "pages": 16,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:11.129956+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636819763906",
+      "etag": "\"69a0682b01f17dcddd87c15623235024\"",
+      "bytes_read": 212298,
+      "pdf_sha256": "8e1ea7ed32bb878bc13f84ecb82d5f6d2db221e388c090d41037248169729cd1",
+      "native_pages": 16,
+      "poppler_pages": 16
+    },
+    "full_pages": 16,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.MG",
+    "id": "1807.04404",
+    "range_pages": 15,
+    "range_proof": {
+      "id": "1807.04404",
+      "pages": 15,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.04404v1.pdf",
+      "generation": "1593636865148755",
+      "etag": "\"a9c30932e40548f472d5f8075f3f3e9a\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 175342-191725/191726",
+          "sha256": "9597c12af90b25fe3d30789d92fee9ffe4d5508c975261c1734ae0a118fa8c7f",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/191726",
+          "sha256": "030485bcfcff6408835d2bf17a7baf4f64d36cdbfc32cf978b4dd6216968dd2b",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 81920-98303/191726",
+          "sha256": "1d718e0bfea727a792ef89c8d8b8388b1a19687386299341ec14bf4e3766b772",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:11.462257+00:00",
+      "seconds": 0.375
+    },
+    "full_proof": {
+      "id": "1807.04404",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.04404v1.pdf",
+      "pages": 15,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:11.462257+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636865148755",
+      "etag": "\"a9c30932e40548f472d5f8075f3f3e9a\"",
+      "bytes_read": 191726,
+      "pdf_sha256": "32ce832cc8d75c7ca64488cd396d4ed23aaf55ae9da6073aeb30d2b799cc9185",
+      "native_pages": 15,
+      "poppler_pages": 15
+    },
+    "full_pages": 15,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.NA",
+    "id": "1807.00440",
+    "range_pages": 5,
+    "range_proof": {
+      "id": "1807.00440",
+      "pages": 5,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00440v1.pdf",
+      "generation": "1595649071979253",
+      "etag": "\"a8a67fbcb88a069b1373aee0438eaa4c\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 694410-710793/710794",
+          "sha256": "7e8954bf286e1dfb22b962f835f28ab67e5f28be6cc9288da8601d7eb5c75864",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/710794",
+          "sha256": "4ed40dfce1976e2f2c483839572113939ae6ce91da972fc38f1767eae7a43643",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 622592-638975/710794",
+          "sha256": "ca98a294fd5d53ac3048a29c002cbb9aa317c657cebd29b960a75b633bb37234",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:11.726545+00:00",
+      "seconds": 0.219
+    },
+    "full_proof": {
+      "id": "1807.00440",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00440v1.pdf",
+      "pages": 5,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:11.726545+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1595649071979253",
+      "etag": "\"a8a67fbcb88a069b1373aee0438eaa4c\"",
+      "bytes_read": 710794,
+      "pdf_sha256": "746dc72f53cba9467dfa760d95a7de4f1d25d41e4c4d5b049c25dbb21a5676fe",
+      "native_pages": 5,
+      "poppler_pages": 5
+    },
+    "full_pages": 5,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.NT",
+    "id": "1807.03243",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1807.03243",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03243v1.pdf",
+      "generation": "1593636793066795",
+      "etag": "\"e3aaad98520a8a9e85fd99e033918494\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 145869-162252/162253",
+          "sha256": "5a972ab1f0e20f3db26b551c1931fabf6c9e7a22f10d5db04ce7cd1a6e69fa4e",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/162253",
+          "sha256": "480e38b297d9e404ebae0eb8a5c4a3a4eb016029be7d08321d083224af1f4675",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 49152-65535/162253",
+          "sha256": "910348a78a23a7d29d1b7082a82ef925120fb9dd1c90902dee48df541e7a9adf",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:11.752997+00:00",
+      "seconds": 0.266
+    },
+    "full_proof": {
+      "id": "1807.03243",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03243v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:11.752997+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636793066795",
+      "etag": "\"e3aaad98520a8a9e85fd99e033918494\"",
+      "bytes_read": 162253,
+      "pdf_sha256": "71605d769f2b3c8391d8115cae7936328c1702a457e74c2503adc13fdebfdb35",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.OA",
+    "id": "1806.11283",
+    "range_pages": 12,
+    "range_proof": {
+      "id": "1806.11283",
+      "pages": 12,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.11283v1.pdf",
+      "generation": "1593636561890862",
+      "etag": "\"22fc69fcb9da364ec698e7f61177c1c7\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 161693-178076/178077",
+          "sha256": "9976c61621034eb02d01b5fec0e36a3f9d0d2c3a3fdaca1f4acd6c100973f5d2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/178077",
+          "sha256": "f1c4d19b216908f7edf8d4bc2efb1abaa093e5ef8374770e1447ae412db974ee",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 65536-81919/178077",
+          "sha256": "a1fbf106c9502f1427fd48ca81bb6d717b5c47a1ce404102a069d428fd4a71ac",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:11.830223+00:00",
+      "seconds": 0.266
+    },
+    "full_proof": {
+      "id": "1806.11283",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.11283v1.pdf",
+      "pages": 12,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:11.830223+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636561890862",
+      "etag": "\"22fc69fcb9da364ec698e7f61177c1c7\"",
+      "bytes_read": 178077,
+      "pdf_sha256": "98423fbc87f6b507ab2b2d30b7a078d671ebecb3db675191432593eed6b88186",
+      "native_pages": 12,
+      "poppler_pages": 12
+    },
+    "full_pages": 12,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.OC",
+    "id": "1807.00379",
+    "range_pages": 18,
+    "range_proof": {
+      "id": "1807.00379",
+      "pages": 18,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00379v1.pdf",
+      "generation": "1593636601947477",
+      "etag": "\"ef305254760f57256cc1c78c7278363e\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 468341-484724/484725",
+          "sha256": "b7d7b09e60022360051e60e7bcfefeb11553097b53873365edc4e28cab18faa7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/484725",
+          "sha256": "6c25409a18d8358d314b2ff227461b8747ba09ad1b733c127952bc9c63101a26",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 376832-393215/484725",
+          "sha256": "bee9d6698e193855f66e12537b6c4fec3b063f3972c1b155a16832a0f9466c66",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 393216-409599/484725",
+          "sha256": "05b7ba494ced607de041bf616c2fd035810687a2c21025266a7c9716dc5ac507",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:12.217270+00:00",
+      "seconds": 0.329
+    },
+    "full_proof": {
+      "id": "1807.00379",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.00379v1.pdf",
+      "pages": 18,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:12.217270+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636601947477",
+      "etag": "\"ef305254760f57256cc1c78c7278363e\"",
+      "bytes_read": 484725,
+      "pdf_sha256": "786066f07c18a6d932521293e96af5fa92649f5ab14157f5066aacf9315e7b76",
+      "native_pages": 18,
+      "poppler_pages": 18
+    },
+    "full_pages": 18,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.PR",
+    "id": "1807.01979",
+    "range_pages": 30,
+    "range_proof": {
+      "id": "1807.01979",
+      "pages": 30,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01979v1.pdf",
+      "generation": "1593636706793086",
+      "etag": "\"005a570fd3240a3ccdd31e7b3ee64bc6\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 402896-419279/419280",
+          "sha256": "49590d91a0699abe201de9191494c7b5a396967ba0e613372628c24b47e0c0e4",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/419280",
+          "sha256": "853581215aadfe2443d8f445e21e380cf85998271f648a22f16d6d7d6922a606",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 196608-212991/419280",
+          "sha256": "67c646e396cb69a641546840aa4d11de79c6b373d2ae4bd52451058d6886f294",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:12.422886+00:00",
+      "seconds": 0.266
+    },
+    "full_proof": {
+      "id": "1807.01979",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01979v1.pdf",
+      "pages": 30,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:12.422886+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636706793086",
+      "etag": "\"005a570fd3240a3ccdd31e7b3ee64bc6\"",
+      "bytes_read": 419280,
+      "pdf_sha256": "80d47668f759ac9262228d90e105262bd73c08e2295228f44f7d5f51574cab9a",
+      "native_pages": 30,
+      "poppler_pages": 30
+    },
+    "full_pages": 30,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.QA",
+    "id": "1807.06037",
+    "range_pages": 46,
+    "range_proof": {
+      "id": "1807.06037",
+      "pages": 46,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.06037v1.pdf",
+      "generation": "1593636964626548",
+      "etag": "\"ac7109bd9340082995880242772ff984\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 358053-374436/374437",
+          "sha256": "735453a1ce8baf6266d79c65c21e9d3d7e3ab8b091b832f81c5e4d58e5d33d15",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/374437",
+          "sha256": "4c3f45de00d6888facb24e6353ef6a3558b62cbc572e08e956b933d6ae427db7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 229376-245759/374437",
+          "sha256": "261793264abd6d2edaf6b6d4220174c9ddd1750c53ea0639f9dbb45c319f95e5",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:12.488082+00:00",
+      "seconds": 0.234
+    },
+    "full_proof": {
+      "id": "1807.06037",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.06037v1.pdf",
+      "pages": 46,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:12.488082+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636964626548",
+      "etag": "\"ac7109bd9340082995880242772ff984\"",
+      "bytes_read": 374437,
+      "pdf_sha256": "424275642c5c2e14bb4edff50a8c2a0dad269b4043cc8e265683cadabc3060d6",
+      "native_pages": 46,
+      "poppler_pages": 46
+    },
+    "full_pages": 46,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.RT",
+    "id": "1807.01056",
+    "range_pages": 10,
+    "range_proof": {
+      "id": "1807.01056",
+      "pages": 10,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01056v1.pdf",
+      "generation": "1593636645043069",
+      "etag": "\"53385cd556e0a142962554082d727ad5\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 128322-144705/144706",
+          "sha256": "610adbf7e41e40bcda66418139bfc6eb8fd52fb0496d25671699f92f25f4df2a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/144706",
+          "sha256": "5b6032d8a8f8c23f1506eae0710129e94f53a10e0c6215d6fb7aee23b96092c1",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 49152-65535/144706",
+          "sha256": "cf4eaea0d48bbfa699efa78b2d0d92459c8aff3a2ce5b10b1ef82254de6521fe",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:12.837749+00:00",
+      "seconds": 0.485
+    },
+    "full_proof": {
+      "id": "1807.01056",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.01056v1.pdf",
+      "pages": 10,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:12.837749+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636645043069",
+      "etag": "\"53385cd556e0a142962554082d727ad5\"",
+      "bytes_read": 144706,
+      "pdf_sha256": "454cb4dd292cf338060db2bc4188c08477d2f7d435778a2a2e4d8ca095561d02",
+      "native_pages": 10,
+      "poppler_pages": 10
+    },
+    "full_pages": 10,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.RA",
+    "id": "1807.02703",
+    "range_pages": 7,
+    "range_proof": {
+      "id": "1807.02703",
+      "pages": 7,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02703v1.pdf",
+      "generation": "1593636760126499",
+      "etag": "\"005bbcd28714e1d723efe77d416e5ce4\"",
+      "requests": 3,
+      "bytes_read": 49152,
+      "range_hashes": [
+        {
+          "range": "bytes 68030-84413/84414",
+          "sha256": "e0c4304f0da4a7a70630626cb24c18120d0a47263b167fb50c60ce2b5a074ab2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/84414",
+          "sha256": "9644fde0bb4ef99ee19eb3b4d00952f554c88c874fa9ea36844e05353ee6fb22",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 32768-49151/84414",
+          "sha256": "81f87b55842f79e88b933d963a11b5ea133276526ba5bf41019d7796375b2ef3",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:13.118286+00:00",
+      "seconds": 0.203
+    },
+    "full_proof": {
+      "id": "1807.02703",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.02703v1.pdf",
+      "pages": 7,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:13.118286+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636760126499",
+      "etag": "\"005bbcd28714e1d723efe77d416e5ce4\"",
+      "bytes_read": 84414,
+      "pdf_sha256": "a9ff8a29ea8bf099499af679d5efae936699fde42188e4b527919afd8b953373",
+      "native_pages": 7,
+      "poppler_pages": 7
+    },
+    "full_pages": 7,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.SP",
+    "id": "1806.10479",
+    "range_pages": 25,
+    "range_proof": {
+      "id": "1806.10479",
+      "pages": 25,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10479v1.pdf",
+      "generation": "1593636510094781",
+      "etag": "\"273fdc4764934639998c0825d03f3388\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 758187-774570/774571",
+          "sha256": "c438f8fbad7bac02fe16fd89ba93ab7d6407721e3ff43983b1ed8edee42eb7ac",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/774571",
+          "sha256": "ba24c525ac11b43d3c34521ae799636fd5e0e5d4ead1de65b1a7d045165ee2a2",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 671744-688127/774571",
+          "sha256": "97e7d8be8c72e445c0e0665ab87ae2990a1581a1350cbf767976fe2533a1f7d7",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 753664-770047/774571",
+          "sha256": "755723f13cf7843d1c8a89a5a101bcad280e454c04b4fe280cc58a8e493bbf2f",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:13.253538+00:00",
+      "seconds": 0.265
+    },
+    "full_proof": {
+      "id": "1806.10479",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1806/1806.10479v1.pdf",
+      "pages": 25,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:13.254542+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636510094781",
+      "etag": "\"273fdc4764934639998c0825d03f3388\"",
+      "bytes_read": 774571,
+      "pdf_sha256": "59e65eafb979b050da6252911e222075fc033a6ad0483190c762f57d189141c1",
+      "native_pages": 25,
+      "poppler_pages": 25
+    },
+    "full_pages": 25,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.SG",
+    "id": "1807.05891",
+    "range_pages": 31,
+    "range_proof": {
+      "id": "1807.05891",
+      "pages": 31,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.05891v1.pdf",
+      "generation": "1593636954856925",
+      "etag": "\"9503dbf9c7bf68596cb56c34e792abce\"",
+      "requests": 4,
+      "bytes_read": 65536,
+      "range_hashes": [
+        {
+          "range": "bytes 303196-319579/319580",
+          "sha256": "2ba4465abe681670c7456e2b79220fd76eec6285faa7c6463b8fd14dfcbf48fe",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/319580",
+          "sha256": "06bea8c626cc3a3e3b40bbd473673e75989152479c0c470d5bd7107467eed31a",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 163840-180223/319580",
+          "sha256": "82b388fe8ca9cd5f9fd1bdfee99f7b7ff227240317b077bb1fcada3e2e40e689",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 180224-196607/319580",
+          "sha256": "96ac449ad9796662589c5681405b679c26046218ad945da7869835465f166a09",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:13.554040+00:00",
+      "seconds": 0.359
+    },
+    "full_proof": {
+      "id": "1807.05891",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.05891v1.pdf",
+      "pages": 31,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:13.555418+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636954856925",
+      "etag": "\"9503dbf9c7bf68596cb56c34e792abce\"",
+      "bytes_read": 319580,
+      "pdf_sha256": "864fc1bbdf646f2641c33291cbfa6771a4e38df2e3e4bad0d767f98ec23116aa",
+      "native_pages": 31,
+      "poppler_pages": 31
+    },
+    "full_pages": 31,
+    "matches": true,
+    "same_generation": true
+  },
+  {
+    "year": 2018,
+    "category": "math.ST",
+    "id": "1807.03469",
+    "range_pages": 42,
+    "range_proof": {
+      "id": "1807.03469",
+      "pages": 42,
+      "status": "measured",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03469v1.pdf",
+      "generation": "1593636809888950",
+      "etag": "\"64b60f8caa1727e51fdd8e9010e605c2\"",
+      "requests": 5,
+      "bytes_read": 81920,
+      "range_hashes": [
+        {
+          "range": "bytes 2560510-2576893/2576894",
+          "sha256": "e8e5e4c3c79992f3cc1b4dbc4824caae861bb5597ce564274cac78e0dd526828",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 0-16383/2576894",
+          "sha256": "0dabf39c310699b6bf53bedae17dc982424dc361384b58bb646de35a7ce59429",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2555904-2572287/2576894",
+          "sha256": "4be9efdc9705a6f06e7b5e11da2e97ba5cba69d49d0ecd368fcc8908139f6bd3",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2441216-2457599/2576894",
+          "sha256": "cc635f5e1c396efcd2e3a17006b46efe73ef019b74176aa593203ef0e4d84d38",
+          "bytes": 16384
+        },
+        {
+          "range": "bytes 2539520-2555903/2576894",
+          "sha256": "5d8297134d2a7173536ebe7e9c9b498fe1d2c631fb16a4a49b5a3819e8c5eeb2",
+          "bytes": 16384
+        }
+      ],
+      "method": "PDFium FPDF_GetPageCount on v1 GCS object via bounded HTTP ranges",
+      "measured_at": "2026-10-25T12:02:13.428507+00:00",
+      "seconds": 0.375
+    },
+    "full_proof": {
+      "id": "1807.03469",
+      "source_url": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/1807/1807.03469v1.pdf",
+      "pages": 42,
+      "status": "measured",
+      "measured_at": "2026-10-25T12:02:13.428507+00:00",
+      "method": "Full v1 PDF: Poppler pdfinfo and PDFium agreement",
+      "generation": "1593636809888950",
+      "etag": "\"64b60f8caa1727e51fdd8e9010e605c2\"",
+      "bytes_read": 2576894,
+      "pdf_sha256": "0dc94d950aa597fc70efbd753603bca06d734b0976465f4409b477d007dcb0ae",
+      "native_pages": 42,
+      "poppler_pages": 42
+    },
+    "full_pages": 42,
+    "matches": true,
+    "same_generation": true
+  }
+]

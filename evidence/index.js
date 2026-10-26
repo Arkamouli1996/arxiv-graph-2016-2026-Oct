@@ -1,0 +1,13 @@
+'use strict';
+const $=id=>document.getElementById(id),bins=JSON.parse($('bins-meta').textContent),params=new URLSearchParams(location.search);let request=0,current=[];const cache=new Map();
+for(const field of ['category','mode','bin','month','from','to']){const value=params.get(field);if(value!==null)$(field).value=value}
+if(!$('category').value)$('category').value='all';if(!$('mode').value)$('mode').value='memberships';if(!$('bin').value)$('bin').value='all';
+const fmt=n=>Number(n).toLocaleString('en-US'),escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function get(key){return window.ArxivData.load(key,'../data/')}
+function count(r,bin){return Number(bin==='all'?r.n:bin==='short10'?r.short10:bin==='short5'?r.short5:bin==='unknown'?r.unknown:r['b'+(bins.indexOf(bin)+1)])}
+async function apply(){const id=++request;const category=$('category').value,mode=$('mode').value,bin=$('bin').value,month=$('month').value,from=$('from').value,to=$('to').value,key=mode+'_'+category.replace('.','-');$('status').textContent='Preparing weekly counts…';
+ try{const data=await get(key+(month?'_months':''));if(id!==request)return;const rows=month?data.filter(r=>r.month===month):data.weeks.map(r=>Object.fromEntries(data.columns.map((c,i)=>[c,r[i]])));current=rows.filter(r=>(!from||r.week>=from)&&(!to||r.week<=to)).map(r=>({...r,matching:count(r,bin)}));let total=0;const p=new URLSearchParams({category,mode,bin,...(month?{month}:{})});$('rows').innerHTML=current.map(r=>{total+=r.matching;return `<tr><td>${r.week}${r.partial?' · partial':''}</td><td>${fmt(r.matching)}</td><td>${fmt(r.measured)}</td><td><a href="${r.week}.html?${escape(p)}">Inspect papers ↗</a></td></tr>`}).join('');$('status').textContent=fmt(total)+' matching papers across '+fmt(current.length)+' source weeks. Select a week to verify its papers.';const q=new URLSearchParams({category,mode,bin,...(month?{month}:{}),...(from?{from}:{}),...(to?{to}:{})});try{history.replaceState(null,'','?'+q)}catch(error){if(error.name!=='SecurityError')throw error}}
+ catch(e){if(id===request)$('status').textContent=e.message}
+}
+$('filters').addEventListener('submit',e=>{e.preventDefault();apply()});$('reset').addEventListener('click',()=>{$('from').value='';$('to').value='';$('month').value='';apply()});
+$('csv').addEventListener('click',()=>{const content='week,matching_papers,measured_pdfs_all_groups\r\n'+current.map(r=>[r.week,r.matching,r.measured].join(',')).join('\r\n');const a=document.createElement('a'),url=URL.createObjectURL(new Blob(['\uFEFF'+content],{type:'text/csv;charset=utf-8'}));a.href=url;a.download='arxiv-weekly-evidence-selection.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)});apply();

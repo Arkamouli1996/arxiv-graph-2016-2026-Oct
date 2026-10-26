@@ -1,0 +1,40 @@
+{
+  "timeline_start": "2016-01-01T00:00:00Z",
+  "cutoff_unchanged": "2026-10-25T07:23:59Z",
+  "total_papers": 515957,
+  "total_measured": 515921,
+  "unknown": 36,
+  "added_papers": 115372,
+  "added_measured": 115358,
+  "added_unknown": 14,
+  "metadata_months": 130,
+  "original_records_unchanged": true,
+  "original_records_checked": 400585,
+  "source_reconstruction_all_ids_dates_categories": true,
+  "extension_category_checks_passed": 32,
+  "extension_date_checks_passed": 32,
+  "extension_full_pdf_checks_passed": 96,
+  "extension_full_pdf_generations_agree": true,
+  "queued_records_remaining": 0,
+  "unattempted_papers": 0,
+  "measurement_receipts_agree": true,
+  "years": [
+    [
+      "2016",
+      36513,
+      36506
+    ],
+    [
+      "2017",
+      38656,
+      38653
+    ],
+    [
+      "2018",
+      40203,
+      40199
+    ]
+  ],
+  "date_range_valid": true,
+  "verified_at": "2026-10-25T12:17:38.402892+00:00"
+}
